@@ -1,0 +1,1001 @@
+sku_id,product_name,brand,category,subcategory,base_price,quality_score,price_tier,overpriced_flag,weak_listing_flag
+NPA-0001,NorthPeak Athletics AirLite Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,250.0,0.704,Value,True,False
+NPA-0002,NorthPeak Athletics Breeze Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,996.0,0.685,Premium,False,False
+NPA-0003,NorthPeak Athletics SunCore Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,583.0,0.896,Mid-Market,False,False
+NPA-0004,NorthPeak Athletics Minimal Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,547.0,0.788,Mid-Market,False,False
+NPA-0005,NorthPeak Athletics CloudSoft Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,362.0,0.611,Value,True,False
+NPA-0006,NorthPeak Athletics Featherweight Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,600.0,0.855,Mid-Market,False,False
+NPA-0007,NorthPeak Athletics Classic Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,306.0,0.686,Value,False,False
+NPA-0008,NorthPeak Athletics New Season Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,464.0,0.438,Value,True,False
+NPA-0009,NorthPeak Athletics Everyday Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,810.0,0.469,Mid-Market,False,True
+NPA-0010,NorthPeak Athletics Comfort Fit Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,220.0,0.584,Value,False,False
+NPA-0011,NorthPeak Athletics Urban Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,434.0,0.545,Value,False,False
+NPA-0012,NorthPeak Athletics Lumen Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,235.0,0.428,Value,True,False
+NPA-0013,NorthPeak Athletics Breathable Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,820.0,0.897,Mid-Market,False,True
+NPA-0014,NorthPeak Athletics GripPro Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,865.0,0.619,Mid-Market,False,False
+NPA-0015,NorthPeak Athletics CushionFlex Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,235.0,0.516,Value,False,False
+NPA-0016,NorthPeak Athletics Trail Ready Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,615.0,0.631,Mid-Market,True,False
+NPA-0017,NorthPeak Athletics Limited Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,903.0,0.561,Mid-Market,False,False
+NPA-0018,NorthPeak Athletics Vintage Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,723.0,0.383,Mid-Market,True,False
+NPA-0019,NorthPeak Athletics TechFeel Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,1007.0,0.572,Premium,False,False
+NPA-0020,NorthPeak Athletics Durable Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,735.0,0.821,Mid-Market,True,False
+NPA-0021,NorthPeak Athletics AirLite Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,535.0,0.606,Mid-Market,False,False
+NPA-0022,NorthPeak Athletics Breeze Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,967.0,0.437,Premium,False,True
+NPA-0023,NorthPeak Athletics SunCore Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,622.0,0.856,Mid-Market,True,False
+NPA-0024,NorthPeak Athletics Minimal Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,874.0,0.558,Mid-Market,False,False
+NPA-0025,NorthPeak Athletics CloudSoft Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,533.0,0.522,Mid-Market,True,False
+NPA-0026,NorthPeak Athletics Featherweight Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,620.0,0.739,Mid-Market,False,False
+NPA-0027,NorthPeak Athletics Classic Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,320.0,0.675,Value,False,False
+NPA-0028,NorthPeak Athletics New Season Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,723.0,0.58,Mid-Market,False,False
+NPA-0029,NorthPeak Athletics Everyday Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,597.0,0.804,Mid-Market,False,False
+NPA-0030,NorthPeak Athletics Comfort Fit Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,901.0,0.512,Mid-Market,False,False
+NPA-0031,NorthPeak Athletics Urban Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,383.0,0.777,Value,False,False
+NPA-0032,NorthPeak Athletics Lumen Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,370.0,0.507,Value,False,False
+NPA-0033,NorthPeak Athletics Breathable Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,1226.0,0.608,Premium,False,False
+NPA-0034,NorthPeak Athletics GripPro Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,323.0,0.563,Value,True,False
+NPA-0035,NorthPeak Athletics CushionFlex Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,541.0,0.422,Mid-Market,True,False
+NPA-0036,NorthPeak Athletics Trail Ready Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,405.0,0.378,Value,True,True
+NPA-0037,NorthPeak Athletics Limited Outdoor Sandals,NorthPeak Athletics,Sports & Outdoor,Outdoor Sandals,1113.0,0.254,Premium,False,False
+NPA-0038,NorthPeak Athletics Vintage Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,1236.0,0.797,Premium,False,False
+NPA-0039,NorthPeak Athletics TechFeel Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,783.0,0.693,Mid-Market,False,False
+NPA-0040,NorthPeak Athletics Durable Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,316.0,0.302,Value,False,True
+NPA-0041,NorthPeak Athletics AirLite Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,361.0,0.678,Value,False,False
+NPA-0042,NorthPeak Athletics Breeze Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,323.0,0.509,Value,False,False
+NPA-0043,NorthPeak Athletics SunCore Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,539.0,0.618,Mid-Market,False,False
+NPA-0044,NorthPeak Athletics Minimal Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,891.0,0.481,Mid-Market,False,False
+NPA-0045,NorthPeak Athletics CloudSoft Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,478.0,0.439,Value,True,False
+NPA-0046,NorthPeak Athletics Featherweight Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,1197.0,0.511,Premium,False,False
+NPA-0047,NorthPeak Athletics Classic Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,672.0,0.449,Mid-Market,False,False
+NPA-0048,NorthPeak Athletics New Season Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,569.0,0.724,Mid-Market,False,False
+NPA-0049,NorthPeak Athletics Everyday Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,498.0,0.654,Value,True,False
+NPA-0050,NorthPeak Athletics Comfort Fit Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,642.0,0.587,Mid-Market,False,False
+NPA-0051,NorthPeak Athletics Urban Training Pants,NorthPeak Athletics,Sports & Outdoor,Training Pants,551.0,0.614,Mid-Market,False,False
+NPA-0052,NorthPeak Athletics Lumen Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,767.0,0.801,Mid-Market,True,True
+NPA-0053,NorthPeak Athletics Breathable Outdoor Sandals,NorthPeak Athletics,Sports & Outdoor,Outdoor Sandals,1058.0,0.67,Premium,False,False
+NPA-0054,NorthPeak Athletics GripPro Outdoor Sandals,NorthPeak Athletics,Sports & Outdoor,Outdoor Sandals,692.0,0.758,Mid-Market,False,True
+NPA-0055,NorthPeak Athletics CushionFlex Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,238.0,0.616,Value,False,False
+NPA-0056,NorthPeak Athletics Trail Ready Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,1000.0,0.62,Premium,False,True
+NPA-0057,NorthPeak Athletics Limited Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,902.0,0.647,Mid-Market,False,False
+NPA-0058,NorthPeak Athletics Vintage Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,931.0,0.371,Premium,False,False
+NPA-0059,NorthPeak Athletics TechFeel Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,352.0,0.284,Value,False,False
+NPA-0060,NorthPeak Athletics Durable Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,1178.0,0.489,Premium,False,False
+NPA-0061,NorthPeak Athletics AirLite Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,931.0,0.906,Premium,True,False
+NPA-0062,NorthPeak Athletics Breeze Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,1094.0,0.64,Premium,False,False
+NPA-0063,NorthPeak Athletics SunCore Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,1009.0,0.63,Premium,False,False
+NPA-0064,NorthPeak Athletics Minimal Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,667.0,0.578,Mid-Market,True,False
+NPA-0065,NorthPeak Athletics CloudSoft Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,745.0,0.756,Mid-Market,False,False
+NPA-0066,NorthPeak Athletics Featherweight Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,204.0,0.526,Value,False,False
+NPA-0067,NorthPeak Athletics Classic Down Jacket,NorthPeak Athletics,Sports & Outdoor,Down Jacket,831.0,0.828,Mid-Market,False,False
+NPA-0068,NorthPeak Athletics New Season Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,656.0,0.42,Mid-Market,False,False
+NPA-0069,NorthPeak Athletics Everyday Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,1096.0,0.796,Premium,False,False
+NPA-0070,NorthPeak Athletics Comfort Fit Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,351.0,0.697,Value,False,False
+NPA-0071,NorthPeak Athletics Urban Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,560.0,0.791,Mid-Market,False,False
+NPA-0072,NorthPeak Athletics Lumen Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,268.0,0.656,Value,False,False
+NPA-0073,NorthPeak Athletics Breathable Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,282.0,0.273,Value,False,False
+NPA-0074,NorthPeak Athletics GripPro Outdoor Sandals,NorthPeak Athletics,Sports & Outdoor,Outdoor Sandals,622.0,0.752,Mid-Market,False,False
+NPA-0075,NorthPeak Athletics CushionFlex Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,790.0,0.73,Mid-Market,False,False
+NPA-0076,NorthPeak Athletics Trail Ready Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,578.0,0.764,Mid-Market,False,False
+NPA-0077,NorthPeak Athletics Limited Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,280.0,0.877,Value,False,False
+NPA-0078,NorthPeak Athletics Vintage Outdoor Sandals,NorthPeak Athletics,Sports & Outdoor,Outdoor Sandals,957.0,0.686,Premium,False,False
+NPA-0079,NorthPeak Athletics TechFeel Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,887.0,0.628,Mid-Market,False,False
+NPA-0080,NorthPeak Athletics Durable Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,724.0,0.79,Mid-Market,False,True
+NPA-0081,NorthPeak Athletics AirLite Sports Backpack,NorthPeak Athletics,Sports & Outdoor,Sports Backpack,734.0,0.609,Mid-Market,True,False
+NPA-0082,NorthPeak Athletics Breeze Shell Jacket,NorthPeak Athletics,Sports & Outdoor,Shell Jacket,822.0,0.291,Mid-Market,False,False
+NPA-0083,NorthPeak Athletics SunCore Outdoor Sandals,NorthPeak Athletics,Sports & Outdoor,Outdoor Sandals,962.0,0.486,Premium,False,False
+NPA-0084,NorthPeak Athletics Minimal Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,968.0,0.601,Premium,False,False
+NPA-0085,NorthPeak Athletics CloudSoft Quick-Dry Tee,NorthPeak Athletics,Sports & Outdoor,Quick-Dry Tee,667.0,0.563,Mid-Market,False,False
+NPA-0086,NorthPeak Athletics Featherweight Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,446.0,0.878,Value,False,False
+NPA-0087,NorthPeak Athletics Classic Swimwear,NorthPeak Athletics,Sports & Outdoor,Swimwear,574.0,0.397,Mid-Market,False,False
+NPA-0088,NorthPeak Athletics New Season Hiking Shoes,NorthPeak Athletics,Sports & Outdoor,Hiking Shoes,873.0,0.291,Mid-Market,False,False
+NPA-0089,NorthPeak Athletics Everyday Yoga Set,NorthPeak Athletics,Sports & Outdoor,Yoga Set,823.0,0.473,Mid-Market,False,False
+NPA-0090,NorthPeak Athletics Comfort Fit Training Shoes,NorthPeak Athletics,Sports & Outdoor,Training Shoes,275.0,0.576,Value,False,False
+SSW-0001,Strive Sportswear AirLite Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,244.0,0.456,Value,False,False
+SSW-0002,Strive Sportswear Breeze Sports Backpack,Strive Sportswear,Sports & Outdoor,Sports Backpack,671.0,0.72,Mid-Market,False,True
+SSW-0003,Strive Sportswear SunCore Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,1096.0,0.615,Premium,False,False
+SSW-0004,Strive Sportswear Minimal Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,1005.0,0.508,Premium,True,False
+SSW-0005,Strive Sportswear CloudSoft Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,511.0,0.569,Mid-Market,False,False
+SSW-0006,Strive Sportswear Featherweight Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,968.0,0.848,Premium,False,False
+SSW-0007,Strive Sportswear Classic Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,340.0,0.46,Value,False,False
+SSW-0008,Strive Sportswear New Season Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,555.0,0.233,Mid-Market,False,False
+SSW-0009,Strive Sportswear Everyday Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,566.0,0.444,Mid-Market,False,False
+SSW-0010,Strive Sportswear Comfort Fit Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,424.0,0.647,Value,False,False
+SSW-0011,Strive Sportswear Urban Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,450.0,0.405,Value,False,False
+SSW-0012,Strive Sportswear Lumen Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,406.0,0.543,Value,False,True
+SSW-0013,Strive Sportswear Breathable Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,431.0,0.704,Value,False,False
+SSW-0014,Strive Sportswear GripPro Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,1139.0,0.534,Premium,False,False
+SSW-0015,Strive Sportswear CushionFlex Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,252.0,0.51,Value,True,False
+SSW-0016,Strive Sportswear Trail Ready Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,268.0,0.474,Value,False,False
+SSW-0017,Strive Sportswear Limited Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,596.0,0.799,Mid-Market,False,False
+SSW-0018,Strive Sportswear Vintage Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,642.0,0.786,Mid-Market,True,False
+SSW-0019,Strive Sportswear TechFeel Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,1193.0,0.88,Premium,False,False
+SSW-0020,Strive Sportswear Durable Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,722.0,0.683,Mid-Market,False,False
+SSW-0021,Strive Sportswear AirLite Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,554.0,0.479,Mid-Market,False,False
+SSW-0022,Strive Sportswear Breeze Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,521.0,0.801,Mid-Market,False,False
+SSW-0023,Strive Sportswear SunCore Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,361.0,0.768,Value,False,False
+SSW-0024,Strive Sportswear Minimal Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,369.0,0.607,Value,True,False
+SSW-0025,Strive Sportswear CloudSoft Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,410.0,0.559,Value,False,False
+SSW-0026,Strive Sportswear Featherweight Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,588.0,0.453,Mid-Market,False,False
+SSW-0027,Strive Sportswear Classic Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,801.0,0.583,Mid-Market,False,False
+SSW-0028,Strive Sportswear New Season Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,570.0,0.59,Mid-Market,False,False
+SSW-0029,Strive Sportswear Everyday Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,816.0,0.625,Mid-Market,True,False
+SSW-0030,Strive Sportswear Comfort Fit Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,958.0,0.663,Premium,False,True
+SSW-0031,Strive Sportswear Urban Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,612.0,0.757,Mid-Market,False,True
+SSW-0032,Strive Sportswear Lumen Sports Backpack,Strive Sportswear,Sports & Outdoor,Sports Backpack,805.0,0.41,Mid-Market,False,False
+SSW-0033,Strive Sportswear Breathable Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,845.0,0.645,Mid-Market,False,False
+SSW-0034,Strive Sportswear GripPro Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,1117.0,0.466,Premium,False,False
+SSW-0035,Strive Sportswear CushionFlex Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,279.0,0.658,Value,False,True
+SSW-0036,Strive Sportswear Trail Ready Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,569.0,0.61,Mid-Market,False,False
+SSW-0037,Strive Sportswear Limited Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,709.0,0.529,Mid-Market,False,False
+SSW-0038,Strive Sportswear Vintage Hiking Shoes,Strive Sportswear,Sports & Outdoor,Hiking Shoes,574.0,0.589,Mid-Market,False,False
+SSW-0039,Strive Sportswear TechFeel Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,1158.0,0.768,Premium,False,False
+SSW-0040,Strive Sportswear Durable Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,436.0,0.575,Value,False,False
+SSW-0041,Strive Sportswear AirLite Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,939.0,0.368,Premium,True,False
+SSW-0042,Strive Sportswear Breeze Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,523.0,0.755,Mid-Market,False,False
+SSW-0043,Strive Sportswear SunCore Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,396.0,0.675,Value,True,False
+SSW-0044,Strive Sportswear Minimal Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,394.0,0.511,Value,False,False
+SSW-0045,Strive Sportswear CloudSoft Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,1096.0,0.49,Premium,False,False
+SSW-0046,Strive Sportswear Featherweight Swimwear,Strive Sportswear,Sports & Outdoor,Swimwear,1154.0,0.571,Premium,True,False
+SSW-0047,Strive Sportswear Classic Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,1140.0,0.546,Premium,False,True
+SSW-0048,Strive Sportswear New Season Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,381.0,0.51,Value,False,False
+SSW-0049,Strive Sportswear Everyday Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,381.0,0.606,Value,False,True
+SSW-0050,Strive Sportswear Comfort Fit Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,516.0,0.818,Mid-Market,False,False
+SSW-0051,Strive Sportswear Urban Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,196.0,0.733,Value,False,False
+SSW-0052,Strive Sportswear Lumen Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,996.0,0.748,Premium,False,False
+SSW-0053,Strive Sportswear Breathable Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,723.0,0.883,Mid-Market,False,False
+SSW-0054,Strive Sportswear GripPro Hiking Shoes,Strive Sportswear,Sports & Outdoor,Hiking Shoes,633.0,0.622,Mid-Market,False,False
+SSW-0055,Strive Sportswear CushionFlex Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,386.0,0.66,Value,False,False
+SSW-0056,Strive Sportswear Trail Ready Hiking Shoes,Strive Sportswear,Sports & Outdoor,Hiking Shoes,1115.0,0.626,Premium,False,False
+SSW-0057,Strive Sportswear Limited Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,533.0,0.656,Mid-Market,True,False
+SSW-0058,Strive Sportswear Vintage Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,587.0,0.71,Mid-Market,False,False
+SSW-0059,Strive Sportswear TechFeel Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,400.0,0.525,Value,False,False
+SSW-0060,Strive Sportswear Durable Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,896.0,0.454,Premium,False,False
+SSW-0061,Strive Sportswear AirLite Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,523.0,0.663,Mid-Market,False,True
+SSW-0062,Strive Sportswear Breeze Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,775.0,0.779,Mid-Market,False,False
+SSW-0063,Strive Sportswear SunCore Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,864.0,0.419,Premium,False,False
+SSW-0064,Strive Sportswear Minimal Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,874.0,0.612,Premium,False,False
+SSW-0065,Strive Sportswear CloudSoft Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,521.0,0.445,Mid-Market,True,False
+SSW-0066,Strive Sportswear Featherweight Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,244.0,0.605,Value,False,False
+SSW-0067,Strive Sportswear Classic Training Pants,Strive Sportswear,Sports & Outdoor,Training Pants,1190.0,0.461,Premium,False,False
+SSW-0068,Strive Sportswear New Season Training Shoes,Strive Sportswear,Sports & Outdoor,Training Shoes,755.0,0.714,Mid-Market,False,False
+SSW-0069,Strive Sportswear Everyday Sports Backpack,Strive Sportswear,Sports & Outdoor,Sports Backpack,664.0,0.385,Mid-Market,False,False
+SSW-0070,Strive Sportswear Comfort Fit Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,378.0,0.653,Value,False,False
+SSW-0071,Strive Sportswear Urban Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,483.0,0.362,Value,False,False
+SSW-0072,Strive Sportswear Lumen Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,619.0,0.59,Mid-Market,False,False
+SSW-0073,Strive Sportswear Breathable Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,483.0,0.786,Value,False,False
+SSW-0074,Strive Sportswear GripPro Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,998.0,0.732,Premium,False,False
+SSW-0075,Strive Sportswear CushionFlex Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,727.0,0.53,Mid-Market,False,False
+SSW-0076,Strive Sportswear Trail Ready Hiking Shoes,Strive Sportswear,Sports & Outdoor,Hiking Shoes,271.0,0.455,Value,True,False
+SSW-0077,Strive Sportswear Limited Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,507.0,0.562,Mid-Market,True,False
+SSW-0078,Strive Sportswear Vintage Down Jacket,Strive Sportswear,Sports & Outdoor,Down Jacket,665.0,0.502,Mid-Market,False,False
+SSW-0079,Strive Sportswear TechFeel Hiking Shoes,Strive Sportswear,Sports & Outdoor,Hiking Shoes,835.0,0.526,Mid-Market,True,False
+SSW-0080,Strive Sportswear Durable Yoga Set,Strive Sportswear,Sports & Outdoor,Yoga Set,1179.0,0.538,Premium,False,False
+SSW-0081,Strive Sportswear AirLite Outdoor Sandals,Strive Sportswear,Sports & Outdoor,Outdoor Sandals,1089.0,0.631,Premium,False,False
+SSW-0082,Strive Sportswear Breeze Shell Jacket,Strive Sportswear,Sports & Outdoor,Shell Jacket,845.0,0.537,Mid-Market,True,False
+SSW-0083,Strive Sportswear SunCore Sports Backpack,Strive Sportswear,Sports & Outdoor,Sports Backpack,803.0,0.446,Mid-Market,False,False
+SSW-0084,Strive Sportswear Minimal Hiking Shoes,Strive Sportswear,Sports & Outdoor,Hiking Shoes,781.0,0.6,Mid-Market,True,False
+SSW-0085,Strive Sportswear CloudSoft Quick-Dry Tee,Strive Sportswear,Sports & Outdoor,Quick-Dry Tee,629.0,0.836,Mid-Market,False,False
+CMP-0001,CoreMotion Performance AirLite Yoga Set,CoreMotion Performance,Sports & Outdoor,Yoga Set,479.0,0.257,Mid-Market,False,False
+CMP-0002,CoreMotion Performance Breeze Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,538.0,0.88,Mid-Market,False,False
+CMP-0003,CoreMotion Performance SunCore Outdoor Sandals,CoreMotion Performance,Sports & Outdoor,Outdoor Sandals,656.0,0.321,Premium,False,False
+CMP-0004,CoreMotion Performance Minimal Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,337.0,0.876,Value,False,False
+CMP-0005,CoreMotion Performance CloudSoft Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,199.0,0.767,Value,False,False
+CMP-0006,CoreMotion Performance Featherweight Swimwear,CoreMotion Performance,Sports & Outdoor,Swimwear,373.0,0.796,Value,False,False
+CMP-0007,CoreMotion Performance Classic Shell Jacket,CoreMotion Performance,Sports & Outdoor,Shell Jacket,593.0,0.652,Mid-Market,False,False
+CMP-0008,CoreMotion Performance New Season Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,732.0,0.797,Premium,False,False
+CMP-0009,CoreMotion Performance Everyday Shell Jacket,CoreMotion Performance,Sports & Outdoor,Shell Jacket,297.0,0.812,Value,False,False
+CMP-0010,CoreMotion Performance Comfort Fit Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,164.0,0.673,Value,False,False
+CMP-0011,CoreMotion Performance Urban Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,637.0,0.752,Mid-Market,True,False
+CMP-0012,CoreMotion Performance Lumen Swimwear,CoreMotion Performance,Sports & Outdoor,Swimwear,673.0,0.262,Premium,True,False
+CMP-0013,CoreMotion Performance Breathable Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,690.0,0.63,Premium,False,False
+CMP-0014,CoreMotion Performance GripPro Shell Jacket,CoreMotion Performance,Sports & Outdoor,Shell Jacket,701.0,0.609,Premium,False,False
+CMP-0015,CoreMotion Performance CushionFlex Quick-Dry Tee,CoreMotion Performance,Sports & Outdoor,Quick-Dry Tee,638.0,0.852,Mid-Market,False,False
+CMP-0016,CoreMotion Performance Trail Ready Yoga Set,CoreMotion Performance,Sports & Outdoor,Yoga Set,685.0,0.767,Premium,False,False
+CMP-0017,CoreMotion Performance Limited Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,307.0,0.646,Value,False,False
+CMP-0018,CoreMotion Performance Vintage Yoga Set,CoreMotion Performance,Sports & Outdoor,Yoga Set,780.0,0.704,Premium,False,False
+CMP-0019,CoreMotion Performance TechFeel Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,843.0,0.573,Premium,False,True
+CMP-0020,CoreMotion Performance Durable Shell Jacket,CoreMotion Performance,Sports & Outdoor,Shell Jacket,783.0,0.719,Premium,False,False
+CMP-0021,CoreMotion Performance AirLite Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,638.0,0.411,Mid-Market,False,False
+CMP-0022,CoreMotion Performance Breeze Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,865.0,0.816,Premium,False,False
+CMP-0023,CoreMotion Performance SunCore Training Pants,CoreMotion Performance,Sports & Outdoor,Training Pants,471.0,0.651,Mid-Market,False,False
+CMP-0024,CoreMotion Performance Minimal Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,426.0,0.551,Mid-Market,False,False
+CMP-0025,CoreMotion Performance CloudSoft Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,373.0,0.788,Value,False,False
+CMP-0026,CoreMotion Performance Featherweight Hiking Shoes,CoreMotion Performance,Sports & Outdoor,Hiking Shoes,301.0,0.606,Value,False,False
+CMP-0027,CoreMotion Performance Classic Hiking Shoes,CoreMotion Performance,Sports & Outdoor,Hiking Shoes,655.0,0.402,Premium,False,False
+CMP-0028,CoreMotion Performance New Season Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,272.0,0.829,Value,False,False
+CMP-0029,CoreMotion Performance Everyday Hiking Shoes,CoreMotion Performance,Sports & Outdoor,Hiking Shoes,415.0,0.471,Mid-Market,False,False
+CMP-0030,CoreMotion Performance Comfort Fit Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,580.0,0.645,Mid-Market,True,False
+CMP-0031,CoreMotion Performance Urban Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,162.0,0.484,Value,False,False
+CMP-0032,CoreMotion Performance Lumen Quick-Dry Tee,CoreMotion Performance,Sports & Outdoor,Quick-Dry Tee,499.0,0.678,Mid-Market,False,True
+CMP-0033,CoreMotion Performance Breathable Shell Jacket,CoreMotion Performance,Sports & Outdoor,Shell Jacket,478.0,0.75,Mid-Market,False,False
+CMP-0034,CoreMotion Performance GripPro Training Pants,CoreMotion Performance,Sports & Outdoor,Training Pants,447.0,0.636,Mid-Market,False,True
+CMP-0035,CoreMotion Performance CushionFlex Swimwear,CoreMotion Performance,Sports & Outdoor,Swimwear,805.0,0.478,Premium,False,True
+CMP-0036,CoreMotion Performance Trail Ready Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,392.0,0.499,Mid-Market,True,False
+CMP-0037,CoreMotion Performance Limited Training Pants,CoreMotion Performance,Sports & Outdoor,Training Pants,552.0,0.767,Mid-Market,False,False
+CMP-0038,CoreMotion Performance Vintage Training Pants,CoreMotion Performance,Sports & Outdoor,Training Pants,177.0,0.359,Value,False,False
+CMP-0039,CoreMotion Performance TechFeel Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,296.0,0.87,Value,False,False
+CMP-0040,CoreMotion Performance Durable Quick-Dry Tee,CoreMotion Performance,Sports & Outdoor,Quick-Dry Tee,532.0,0.833,Mid-Market,False,False
+CMP-0041,CoreMotion Performance AirLite Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,242.0,0.767,Value,False,False
+CMP-0042,CoreMotion Performance Breeze Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,455.0,0.57,Mid-Market,False,False
+CMP-0043,CoreMotion Performance SunCore Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,599.0,0.63,Mid-Market,False,False
+CMP-0044,CoreMotion Performance Minimal Quick-Dry Tee,CoreMotion Performance,Sports & Outdoor,Quick-Dry Tee,651.0,0.641,Premium,False,False
+CMP-0045,CoreMotion Performance CloudSoft Hiking Shoes,CoreMotion Performance,Sports & Outdoor,Hiking Shoes,830.0,0.558,Premium,False,False
+CMP-0046,CoreMotion Performance Featherweight Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,805.0,0.621,Premium,False,False
+CMP-0047,CoreMotion Performance Classic Quick-Dry Tee,CoreMotion Performance,Sports & Outdoor,Quick-Dry Tee,282.0,0.435,Value,False,False
+CMP-0048,CoreMotion Performance New Season Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,328.0,0.373,Value,True,False
+CMP-0049,CoreMotion Performance Everyday Down Jacket,CoreMotion Performance,Sports & Outdoor,Down Jacket,227.0,0.584,Value,False,False
+CMP-0050,CoreMotion Performance Comfort Fit Outdoor Sandals,CoreMotion Performance,Sports & Outdoor,Outdoor Sandals,482.0,0.461,Mid-Market,False,False
+CMP-0051,CoreMotion Performance Urban Quick-Dry Tee,CoreMotion Performance,Sports & Outdoor,Quick-Dry Tee,290.0,0.816,Value,False,False
+CMP-0052,CoreMotion Performance Lumen Outdoor Sandals,CoreMotion Performance,Sports & Outdoor,Outdoor Sandals,556.0,0.568,Mid-Market,False,False
+CMP-0053,CoreMotion Performance Breathable Sports Backpack,CoreMotion Performance,Sports & Outdoor,Sports Backpack,333.0,0.872,Value,False,False
+CMP-0054,CoreMotion Performance GripPro Training Shoes,CoreMotion Performance,Sports & Outdoor,Training Shoes,404.0,0.795,Mid-Market,False,False
+CMP-0055,CoreMotion Performance CushionFlex Yoga Set,CoreMotion Performance,Sports & Outdoor,Yoga Set,412.0,0.764,Mid-Market,False,False
+RFA-0001,RetroFit Active AirLite Training Pants,RetroFit Active,Sports & Outdoor,Training Pants,420.0,0.584,Mid-Market,True,True
+RFA-0002,RetroFit Active Breeze Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,630.0,0.753,Premium,False,False
+RFA-0003,RetroFit Active SunCore Down Jacket,RetroFit Active,Sports & Outdoor,Down Jacket,374.0,0.333,Mid-Market,True,False
+RFA-0004,RetroFit Active Minimal Down Jacket,RetroFit Active,Sports & Outdoor,Down Jacket,268.0,0.36,Value,True,False
+RFA-0005,RetroFit Active CloudSoft Sports Backpack,RetroFit Active,Sports & Outdoor,Sports Backpack,326.0,0.599,Value,False,False
+RFA-0006,RetroFit Active Featherweight Sports Backpack,RetroFit Active,Sports & Outdoor,Sports Backpack,352.0,0.417,Mid-Market,True,False
+RFA-0007,RetroFit Active Classic Down Jacket,RetroFit Active,Sports & Outdoor,Down Jacket,576.0,0.923,Premium,False,False
+RFA-0008,RetroFit Active New Season Sports Backpack,RetroFit Active,Sports & Outdoor,Sports Backpack,630.0,0.89,Premium,False,False
+RFA-0009,RetroFit Active Everyday Hiking Shoes,RetroFit Active,Sports & Outdoor,Hiking Shoes,171.0,0.508,Value,False,False
+RFA-0010,RetroFit Active Comfort Fit Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,317.0,0.604,Value,False,True
+RFA-0011,RetroFit Active Urban Hiking Shoes,RetroFit Active,Sports & Outdoor,Hiking Shoes,382.0,0.833,Mid-Market,False,False
+RFA-0012,RetroFit Active Lumen Outdoor Sandals,RetroFit Active,Sports & Outdoor,Outdoor Sandals,358.0,0.929,Mid-Market,False,False
+RFA-0013,RetroFit Active Breathable Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,297.0,0.617,Value,False,False
+RFA-0014,RetroFit Active GripPro Shell Jacket,RetroFit Active,Sports & Outdoor,Shell Jacket,350.0,0.586,Mid-Market,True,False
+RFA-0015,RetroFit Active CushionFlex Sports Backpack,RetroFit Active,Sports & Outdoor,Sports Backpack,531.0,0.461,Mid-Market,False,False
+RFA-0016,RetroFit Active Trail Ready Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,488.0,0.839,Mid-Market,False,False
+RFA-0017,RetroFit Active Limited Outdoor Sandals,RetroFit Active,Sports & Outdoor,Outdoor Sandals,416.0,0.527,Mid-Market,False,False
+RFA-0018,RetroFit Active Vintage Swimwear,RetroFit Active,Sports & Outdoor,Swimwear,379.0,0.659,Mid-Market,False,False
+RFA-0019,RetroFit Active TechFeel Swimwear,RetroFit Active,Sports & Outdoor,Swimwear,723.0,0.453,Premium,False,False
+RFA-0020,RetroFit Active Durable Yoga Set,RetroFit Active,Sports & Outdoor,Yoga Set,464.0,0.48,Mid-Market,False,False
+RFA-0021,RetroFit Active AirLite Hiking Shoes,RetroFit Active,Sports & Outdoor,Hiking Shoes,695.0,0.705,Premium,False,False
+RFA-0022,RetroFit Active Breeze Sports Backpack,RetroFit Active,Sports & Outdoor,Sports Backpack,532.0,0.766,Mid-Market,False,False
+RFA-0023,RetroFit Active SunCore Outdoor Sandals,RetroFit Active,Sports & Outdoor,Outdoor Sandals,217.0,0.648,Value,False,False
+RFA-0024,RetroFit Active Minimal Quick-Dry Tee,RetroFit Active,Sports & Outdoor,Quick-Dry Tee,567.0,0.566,Mid-Market,False,False
+RFA-0025,RetroFit Active CloudSoft Sports Backpack,RetroFit Active,Sports & Outdoor,Sports Backpack,316.0,0.333,Value,False,False
+RFA-0026,RetroFit Active Featherweight Training Pants,RetroFit Active,Sports & Outdoor,Training Pants,190.0,0.87,Value,True,False
+RFA-0027,RetroFit Active Classic Shell Jacket,RetroFit Active,Sports & Outdoor,Shell Jacket,495.0,0.664,Mid-Market,False,False
+RFA-0028,RetroFit Active New Season Training Pants,RetroFit Active,Sports & Outdoor,Training Pants,541.0,0.468,Mid-Market,False,False
+RFA-0029,RetroFit Active Everyday Outdoor Sandals,RetroFit Active,Sports & Outdoor,Outdoor Sandals,316.0,0.588,Value,False,False
+RFA-0030,RetroFit Active Comfort Fit Swimwear,RetroFit Active,Sports & Outdoor,Swimwear,413.0,0.629,Mid-Market,False,False
+RFA-0031,RetroFit Active Urban Outdoor Sandals,RetroFit Active,Sports & Outdoor,Outdoor Sandals,240.0,0.443,Value,False,False
+RFA-0032,RetroFit Active Lumen Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,765.0,0.682,Premium,False,False
+RFA-0033,RetroFit Active Breathable Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,570.0,0.649,Mid-Market,False,False
+RFA-0034,RetroFit Active GripPro Hiking Shoes,RetroFit Active,Sports & Outdoor,Hiking Shoes,533.0,0.488,Mid-Market,False,False
+RFA-0035,RetroFit Active CushionFlex Quick-Dry Tee,RetroFit Active,Sports & Outdoor,Quick-Dry Tee,481.0,0.19,Mid-Market,False,False
+RFA-0036,RetroFit Active Trail Ready Training Pants,RetroFit Active,Sports & Outdoor,Training Pants,249.0,0.625,Value,True,False
+RFA-0037,RetroFit Active Limited Yoga Set,RetroFit Active,Sports & Outdoor,Yoga Set,459.0,0.823,Mid-Market,False,True
+RFA-0038,RetroFit Active Vintage Shell Jacket,RetroFit Active,Sports & Outdoor,Shell Jacket,203.0,0.757,Value,False,False
+RFA-0039,RetroFit Active TechFeel Training Pants,RetroFit Active,Sports & Outdoor,Training Pants,250.0,0.469,Value,True,True
+RFA-0040,RetroFit Active Durable Swimwear,RetroFit Active,Sports & Outdoor,Swimwear,411.0,0.714,Mid-Market,False,False
+RFA-0041,RetroFit Active AirLite Swimwear,RetroFit Active,Sports & Outdoor,Swimwear,543.0,0.761,Mid-Market,False,False
+RFA-0042,RetroFit Active Breeze Yoga Set,RetroFit Active,Sports & Outdoor,Yoga Set,734.0,0.789,Premium,False,False
+RFA-0043,RetroFit Active SunCore Down Jacket,RetroFit Active,Sports & Outdoor,Down Jacket,500.0,0.559,Mid-Market,True,False
+RFA-0044,RetroFit Active Minimal Outdoor Sandals,RetroFit Active,Sports & Outdoor,Outdoor Sandals,360.0,0.456,Mid-Market,True,False
+RFA-0045,RetroFit Active CloudSoft Training Shoes,RetroFit Active,Sports & Outdoor,Training Shoes,346.0,0.593,Mid-Market,False,False
+AQP-0001,AquaPulse AirLite Swimwear,AquaPulse,Sports & Outdoor,Swimwear,436.0,0.69,Premium,False,False
+AQP-0002,AquaPulse Breeze Swimwear,AquaPulse,Sports & Outdoor,Swimwear,257.0,0.662,Mid-Market,True,False
+AQP-0003,AquaPulse SunCore Sports Backpack,AquaPulse,Sports & Outdoor,Sports Backpack,324.0,0.843,Mid-Market,False,False
+AQP-0004,AquaPulse Minimal Sports Backpack,AquaPulse,Sports & Outdoor,Sports Backpack,574.0,0.807,Premium,False,False
+AQP-0005,AquaPulse CloudSoft Swimwear,AquaPulse,Sports & Outdoor,Swimwear,369.0,0.903,Mid-Market,False,False
+AQP-0006,AquaPulse Featherweight Sports Backpack,AquaPulse,Sports & Outdoor,Sports Backpack,103.0,0.533,Value,False,False
+AQP-0007,AquaPulse Classic Quick-Dry Tee,AquaPulse,Sports & Outdoor,Quick-Dry Tee,355.0,0.603,Mid-Market,False,False
+AQP-0008,AquaPulse New Season Training Pants,AquaPulse,Sports & Outdoor,Training Pants,254.0,0.594,Mid-Market,False,False
+AQP-0009,AquaPulse Everyday Down Jacket,AquaPulse,Sports & Outdoor,Down Jacket,103.0,0.603,Value,False,False
+AQP-0010,AquaPulse Comfort Fit Yoga Set,AquaPulse,Sports & Outdoor,Yoga Set,232.0,0.73,Value,False,False
+AQP-0011,AquaPulse Urban Hiking Shoes,AquaPulse,Sports & Outdoor,Hiking Shoes,276.0,0.561,Mid-Market,False,False
+AQP-0012,AquaPulse Lumen Training Pants,AquaPulse,Sports & Outdoor,Training Pants,128.0,0.634,Value,True,False
+AQP-0013,AquaPulse Breathable Hiking Shoes,AquaPulse,Sports & Outdoor,Hiking Shoes,359.0,0.277,Mid-Market,False,False
+AQP-0014,AquaPulse GripPro Quick-Dry Tee,AquaPulse,Sports & Outdoor,Quick-Dry Tee,256.0,0.505,Mid-Market,False,False
+AQP-0015,AquaPulse CushionFlex Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,218.0,0.599,Value,True,False
+AQP-0016,AquaPulse Trail Ready Yoga Set,AquaPulse,Sports & Outdoor,Yoga Set,421.0,0.745,Mid-Market,False,False
+AQP-0017,AquaPulse Limited Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,317.0,0.252,Mid-Market,False,False
+AQP-0018,AquaPulse Vintage Training Pants,AquaPulse,Sports & Outdoor,Training Pants,558.0,0.707,Premium,False,False
+AQP-0019,AquaPulse TechFeel Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,580.0,0.637,Premium,True,False
+AQP-0020,AquaPulse Durable Shell Jacket,AquaPulse,Sports & Outdoor,Shell Jacket,370.0,0.697,Mid-Market,True,False
+AQP-0021,AquaPulse AirLite Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,426.0,0.687,Premium,False,False
+AQP-0022,AquaPulse Breeze Shell Jacket,AquaPulse,Sports & Outdoor,Shell Jacket,212.0,0.627,Value,False,False
+AQP-0023,AquaPulse SunCore Sports Backpack,AquaPulse,Sports & Outdoor,Sports Backpack,263.0,0.641,Mid-Market,False,False
+AQP-0024,AquaPulse Minimal Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,437.0,0.825,Premium,False,False
+AQP-0025,AquaPulse CloudSoft Yoga Set,AquaPulse,Sports & Outdoor,Yoga Set,258.0,0.602,Mid-Market,True,False
+AQP-0026,AquaPulse Featherweight Training Pants,AquaPulse,Sports & Outdoor,Training Pants,495.0,0.661,Premium,False,False
+AQP-0027,AquaPulse Classic Training Pants,AquaPulse,Sports & Outdoor,Training Pants,312.0,0.431,Mid-Market,False,False
+AQP-0028,AquaPulse New Season Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,201.0,0.453,Value,False,False
+AQP-0029,AquaPulse Everyday Shell Jacket,AquaPulse,Sports & Outdoor,Shell Jacket,215.0,0.617,Value,False,False
+AQP-0030,AquaPulse Comfort Fit Down Jacket,AquaPulse,Sports & Outdoor,Down Jacket,305.0,0.618,Mid-Market,True,False
+AQP-0031,AquaPulse Urban Hiking Shoes,AquaPulse,Sports & Outdoor,Hiking Shoes,210.0,0.577,Value,False,True
+AQP-0032,AquaPulse Lumen Hiking Shoes,AquaPulse,Sports & Outdoor,Hiking Shoes,405.0,0.601,Mid-Market,False,False
+AQP-0033,AquaPulse Breathable Yoga Set,AquaPulse,Sports & Outdoor,Yoga Set,317.0,0.69,Mid-Market,False,False
+AQP-0034,AquaPulse GripPro Training Shoes,AquaPulse,Sports & Outdoor,Training Shoes,547.0,0.575,Premium,False,True
+AQP-0035,AquaPulse CushionFlex Outdoor Sandals,AquaPulse,Sports & Outdoor,Outdoor Sandals,512.0,0.543,Premium,False,False
+SLS-0001,SummitLane Sports AirLite Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,428.0,0.76,Mid-Market,False,False
+SLS-0002,SummitLane Sports Breeze Hiking Shoes,SummitLane Sports,Sports & Outdoor,Hiking Shoes,265.0,0.836,Value,False,False
+SLS-0003,SummitLane Sports SunCore Hiking Shoes,SummitLane Sports,Sports & Outdoor,Hiking Shoes,423.0,0.792,Mid-Market,False,False
+SLS-0004,SummitLane Sports Minimal Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,233.0,0.514,Value,False,False
+SLS-0005,SummitLane Sports CloudSoft Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,470.0,0.756,Mid-Market,True,False
+SLS-0006,SummitLane Sports Featherweight Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,511.0,0.563,Mid-Market,False,False
+SLS-0007,SummitLane Sports Classic Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,188.0,0.626,Value,False,False
+SLS-0008,SummitLane Sports New Season Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,558.0,0.729,Mid-Market,False,True
+SLS-0009,SummitLane Sports Everyday Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,401.0,0.621,Mid-Market,True,False
+SLS-0010,SummitLane Sports Comfort Fit Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,322.0,0.85,Value,False,False
+SLS-0011,SummitLane Sports Urban Yoga Set,SummitLane Sports,Sports & Outdoor,Yoga Set,383.0,0.606,Mid-Market,False,False
+SLS-0012,SummitLane Sports Lumen Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,714.0,0.685,Premium,False,False
+SLS-0013,SummitLane Sports Breathable Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,539.0,0.741,Mid-Market,False,True
+SLS-0014,SummitLane Sports GripPro Shell Jacket,SummitLane Sports,Sports & Outdoor,Shell Jacket,348.0,0.792,Mid-Market,False,False
+SLS-0015,SummitLane Sports CushionFlex Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,219.0,0.92,Value,False,True
+SLS-0016,SummitLane Sports Trail Ready Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,320.0,0.813,Value,False,False
+SLS-0017,SummitLane Sports Limited Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,347.0,0.881,Mid-Market,False,False
+SLS-0018,SummitLane Sports Vintage Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,225.0,0.626,Value,False,False
+SLS-0019,SummitLane Sports TechFeel Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,447.0,0.772,Mid-Market,True,True
+SLS-0020,SummitLane Sports Durable Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,735.0,0.84,Premium,True,False
+SLS-0021,SummitLane Sports AirLite Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,209.0,0.44,Value,False,False
+SLS-0022,SummitLane Sports Breeze Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,545.0,0.705,Mid-Market,False,False
+SLS-0023,SummitLane Sports SunCore Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,484.0,0.827,Mid-Market,False,False
+SLS-0024,SummitLane Sports Minimal Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,136.0,0.71,Value,False,False
+SLS-0025,SummitLane Sports CloudSoft Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,451.0,0.504,Mid-Market,False,False
+SLS-0026,SummitLane Sports Featherweight Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,447.0,0.718,Mid-Market,False,False
+SLS-0027,SummitLane Sports Classic Training Shoes,SummitLane Sports,Sports & Outdoor,Training Shoes,143.0,0.613,Value,False,False
+SLS-0028,SummitLane Sports New Season Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,511.0,0.525,Mid-Market,False,False
+SLS-0029,SummitLane Sports Everyday Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,155.0,0.89,Value,False,True
+SLS-0030,SummitLane Sports Comfort Fit Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,190.0,0.759,Value,False,False
+SLS-0031,SummitLane Sports Urban Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,664.0,0.546,Premium,False,False
+SLS-0032,SummitLane Sports Lumen Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,754.0,0.568,Premium,False,False
+SLS-0033,SummitLane Sports Breathable Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,496.0,0.464,Mid-Market,False,False
+SLS-0034,SummitLane Sports GripPro Training Shoes,SummitLane Sports,Sports & Outdoor,Training Shoes,508.0,0.647,Mid-Market,True,False
+SLS-0035,SummitLane Sports CushionFlex Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,498.0,0.358,Mid-Market,False,False
+SLS-0036,SummitLane Sports Trail Ready Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,610.0,0.523,Premium,False,False
+SLS-0037,SummitLane Sports Limited Training Shoes,SummitLane Sports,Sports & Outdoor,Training Shoes,552.0,0.62,Mid-Market,False,False
+SLS-0038,SummitLane Sports Vintage Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,298.0,0.623,Value,True,False
+SLS-0039,SummitLane Sports TechFeel Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,693.0,0.885,Premium,False,True
+SLS-0040,SummitLane Sports Durable Hiking Shoes,SummitLane Sports,Sports & Outdoor,Hiking Shoes,694.0,0.497,Premium,False,False
+SLS-0041,SummitLane Sports AirLite Hiking Shoes,SummitLane Sports,Sports & Outdoor,Hiking Shoes,722.0,0.742,Premium,False,False
+SLS-0042,SummitLane Sports Breeze Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,264.0,0.37,Value,True,False
+SLS-0043,SummitLane Sports SunCore Yoga Set,SummitLane Sports,Sports & Outdoor,Yoga Set,276.0,0.8,Value,False,True
+SLS-0044,SummitLane Sports Minimal Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,140.0,0.551,Value,False,False
+SLS-0045,SummitLane Sports CloudSoft Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,506.0,0.274,Mid-Market,True,False
+SLS-0046,SummitLane Sports Featherweight Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,372.0,0.723,Mid-Market,False,True
+SLS-0047,SummitLane Sports Classic Quick-Dry Tee,SummitLane Sports,Sports & Outdoor,Quick-Dry Tee,209.0,0.509,Value,False,False
+SLS-0048,SummitLane Sports New Season Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,706.0,0.836,Premium,True,True
+SLS-0049,SummitLane Sports Everyday Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,482.0,0.601,Mid-Market,False,True
+SLS-0050,SummitLane Sports Comfort Fit Outdoor Sandals,SummitLane Sports,Sports & Outdoor,Outdoor Sandals,403.0,0.493,Mid-Market,False,False
+SLS-0051,SummitLane Sports Urban Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,494.0,0.414,Mid-Market,False,False
+SLS-0052,SummitLane Sports Lumen Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,658.0,0.863,Premium,False,False
+SLS-0053,SummitLane Sports Breathable Hiking Shoes,SummitLane Sports,Sports & Outdoor,Hiking Shoes,544.0,0.691,Mid-Market,False,False
+SLS-0054,SummitLane Sports GripPro Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,273.0,0.392,Value,True,False
+SLS-0055,SummitLane Sports CushionFlex Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,142.0,0.841,Value,False,False
+SLS-0056,SummitLane Sports Trail Ready Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,753.0,0.646,Premium,False,False
+SLS-0057,SummitLane Sports Limited Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,452.0,0.596,Mid-Market,True,False
+SLS-0058,SummitLane Sports Vintage Shell Jacket,SummitLane Sports,Sports & Outdoor,Shell Jacket,540.0,0.338,Mid-Market,False,False
+SLS-0059,SummitLane Sports TechFeel Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,434.0,0.921,Mid-Market,False,False
+SLS-0060,SummitLane Sports Durable Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,190.0,0.772,Value,False,True
+SLS-0061,SummitLane Sports AirLite Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,161.0,0.778,Value,False,True
+SLS-0062,SummitLane Sports Breeze Training Pants,SummitLane Sports,Sports & Outdoor,Training Pants,356.0,0.671,Mid-Market,False,False
+SLS-0063,SummitLane Sports SunCore Swimwear,SummitLane Sports,Sports & Outdoor,Swimwear,524.0,0.332,Mid-Market,False,False
+SLS-0064,SummitLane Sports Minimal Shell Jacket,SummitLane Sports,Sports & Outdoor,Shell Jacket,551.0,0.762,Mid-Market,False,True
+SLS-0065,SummitLane Sports CloudSoft Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,723.0,0.646,Premium,False,False
+SLS-0066,SummitLane Sports Featherweight Training Shoes,SummitLane Sports,Sports & Outdoor,Training Shoes,372.0,0.656,Mid-Market,False,False
+SLS-0067,SummitLane Sports Classic Sports Backpack,SummitLane Sports,Sports & Outdoor,Sports Backpack,146.0,0.363,Value,True,False
+SLS-0068,SummitLane Sports New Season Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,233.0,0.806,Value,False,False
+SLS-0069,SummitLane Sports Everyday Yoga Set,SummitLane Sports,Sports & Outdoor,Yoga Set,709.0,0.711,Premium,False,False
+SLS-0070,SummitLane Sports Comfort Fit Down Jacket,SummitLane Sports,Sports & Outdoor,Down Jacket,230.0,0.335,Value,False,False
+FLX-0001,FlexStep AirLite Yoga Set,FlexStep,Sports & Outdoor,Yoga Set,232.0,0.807,Value,True,False
+FLX-0002,FlexStep Breeze Down Jacket,FlexStep,Sports & Outdoor,Down Jacket,411.0,0.529,Mid-Market,True,False
+FLX-0003,FlexStep SunCore Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,381.0,0.302,Mid-Market,True,False
+FLX-0004,FlexStep Minimal Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,396.0,0.444,Mid-Market,False,False
+FLX-0005,FlexStep CloudSoft Quick-Dry Tee,FlexStep,Sports & Outdoor,Quick-Dry Tee,681.0,0.781,Premium,False,True
+FLX-0006,FlexStep Featherweight Down Jacket,FlexStep,Sports & Outdoor,Down Jacket,280.0,0.513,Value,True,False
+FLX-0007,FlexStep Classic Yoga Set,FlexStep,Sports & Outdoor,Yoga Set,403.0,0.675,Mid-Market,True,False
+FLX-0008,FlexStep New Season Training Pants,FlexStep,Sports & Outdoor,Training Pants,213.0,0.582,Value,False,False
+FLX-0009,FlexStep Everyday Swimwear,FlexStep,Sports & Outdoor,Swimwear,299.0,0.68,Value,False,False
+FLX-0010,FlexStep Comfort Fit Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,448.0,0.691,Mid-Market,False,False
+FLX-0011,FlexStep Urban Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,444.0,0.726,Mid-Market,False,False
+FLX-0012,FlexStep Lumen Quick-Dry Tee,FlexStep,Sports & Outdoor,Quick-Dry Tee,384.0,0.814,Mid-Market,False,False
+FLX-0013,FlexStep Breathable Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,369.0,0.726,Mid-Market,True,False
+FLX-0014,FlexStep GripPro Down Jacket,FlexStep,Sports & Outdoor,Down Jacket,287.0,0.384,Value,False,False
+FLX-0015,FlexStep CushionFlex Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,375.0,0.861,Mid-Market,False,False
+FLX-0016,FlexStep Trail Ready Yoga Set,FlexStep,Sports & Outdoor,Yoga Set,193.0,0.448,Value,False,False
+FLX-0017,FlexStep Limited Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,394.0,0.652,Mid-Market,False,False
+FLX-0018,FlexStep Vintage Shell Jacket,FlexStep,Sports & Outdoor,Shell Jacket,347.0,0.385,Mid-Market,True,False
+FLX-0019,FlexStep TechFeel Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,561.0,0.567,Premium,True,False
+FLX-0020,FlexStep Durable Swimwear,FlexStep,Sports & Outdoor,Swimwear,392.0,0.702,Mid-Market,False,False
+FLX-0021,FlexStep AirLite Shell Jacket,FlexStep,Sports & Outdoor,Shell Jacket,310.0,0.534,Value,False,False
+FLX-0022,FlexStep Breeze Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,655.0,0.725,Premium,False,False
+FLX-0023,FlexStep SunCore Swimwear,FlexStep,Sports & Outdoor,Swimwear,579.0,0.672,Premium,False,False
+FLX-0024,FlexStep Minimal Down Jacket,FlexStep,Sports & Outdoor,Down Jacket,458.0,0.584,Mid-Market,False,False
+FLX-0025,FlexStep CloudSoft Shell Jacket,FlexStep,Sports & Outdoor,Shell Jacket,203.0,0.794,Value,False,False
+FLX-0026,FlexStep Featherweight Swimwear,FlexStep,Sports & Outdoor,Swimwear,548.0,0.803,Premium,True,False
+FLX-0027,FlexStep Classic Quick-Dry Tee,FlexStep,Sports & Outdoor,Quick-Dry Tee,615.0,0.673,Premium,False,False
+FLX-0028,FlexStep New Season Swimwear,FlexStep,Sports & Outdoor,Swimwear,443.0,0.813,Mid-Market,False,True
+FLX-0029,FlexStep Everyday Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,678.0,0.693,Premium,False,False
+FLX-0030,FlexStep Comfort Fit Hiking Shoes,FlexStep,Sports & Outdoor,Hiking Shoes,522.0,0.798,Premium,False,False
+FLX-0031,FlexStep Urban Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,189.0,0.569,Value,False,False
+FLX-0032,FlexStep Lumen Quick-Dry Tee,FlexStep,Sports & Outdoor,Quick-Dry Tee,252.0,0.723,Value,False,True
+FLX-0033,FlexStep Breathable Quick-Dry Tee,FlexStep,Sports & Outdoor,Quick-Dry Tee,597.0,0.643,Premium,False,False
+FLX-0034,FlexStep GripPro Training Shoes,FlexStep,Sports & Outdoor,Training Shoes,234.0,0.659,Value,False,True
+FLX-0035,FlexStep CushionFlex Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,545.0,0.766,Premium,True,False
+FLX-0036,FlexStep Trail Ready Training Pants,FlexStep,Sports & Outdoor,Training Pants,427.0,0.898,Mid-Market,True,False
+FLX-0037,FlexStep Limited Training Shoes,FlexStep,Sports & Outdoor,Training Shoes,307.0,0.866,Value,True,False
+FLX-0038,FlexStep Vintage Swimwear,FlexStep,Sports & Outdoor,Swimwear,492.0,0.814,Mid-Market,False,False
+FLX-0039,FlexStep TechFeel Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,425.0,0.488,Mid-Market,False,False
+FLX-0040,FlexStep Durable Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,474.0,0.769,Mid-Market,True,False
+FLX-0041,FlexStep AirLite Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,265.0,0.616,Value,False,False
+FLX-0042,FlexStep Breeze Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,208.0,0.805,Value,False,False
+FLX-0043,FlexStep SunCore Training Pants,FlexStep,Sports & Outdoor,Training Pants,351.0,0.467,Mid-Market,False,False
+FLX-0044,FlexStep Minimal Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,315.0,0.505,Value,False,False
+FLX-0045,FlexStep CloudSoft Hiking Shoes,FlexStep,Sports & Outdoor,Hiking Shoes,399.0,0.531,Mid-Market,True,False
+FLX-0046,FlexStep Featherweight Hiking Shoes,FlexStep,Sports & Outdoor,Hiking Shoes,420.0,0.63,Mid-Market,False,False
+FLX-0047,FlexStep Classic Quick-Dry Tee,FlexStep,Sports & Outdoor,Quick-Dry Tee,407.0,0.316,Mid-Market,False,False
+FLX-0048,FlexStep New Season Shell Jacket,FlexStep,Sports & Outdoor,Shell Jacket,265.0,0.581,Value,False,False
+FLX-0049,FlexStep Everyday Swimwear,FlexStep,Sports & Outdoor,Swimwear,292.0,0.882,Value,True,False
+FLX-0050,FlexStep Comfort Fit Swimwear,FlexStep,Sports & Outdoor,Swimwear,472.0,0.651,Mid-Market,True,False
+FLX-0051,FlexStep Urban Shell Jacket,FlexStep,Sports & Outdoor,Shell Jacket,347.0,0.399,Mid-Market,True,False
+FLX-0052,FlexStep Lumen Sports Backpack,FlexStep,Sports & Outdoor,Sports Backpack,329.0,0.857,Value,False,False
+FLX-0053,FlexStep Breathable Swimwear,FlexStep,Sports & Outdoor,Swimwear,689.0,0.512,Premium,False,False
+FLX-0054,FlexStep GripPro Training Pants,FlexStep,Sports & Outdoor,Training Pants,232.0,0.62,Value,True,False
+FLX-0055,FlexStep CushionFlex Outdoor Sandals,FlexStep,Sports & Outdoor,Outdoor Sandals,237.0,0.65,Value,False,True
+FLX-0056,FlexStep Trail Ready Training Shoes,FlexStep,Sports & Outdoor,Training Shoes,598.0,0.536,Premium,False,False
+FLX-0057,FlexStep Limited Yoga Set,FlexStep,Sports & Outdoor,Yoga Set,500.0,0.335,Mid-Market,False,False
+FLX-0058,FlexStep Vintage Hiking Shoes,FlexStep,Sports & Outdoor,Hiking Shoes,680.0,0.824,Premium,False,False
+FLX-0059,FlexStep TechFeel Hiking Shoes,FlexStep,Sports & Outdoor,Hiking Shoes,246.0,0.862,Value,False,True
+FLX-0060,FlexStep Durable Shell Jacket,FlexStep,Sports & Outdoor,Shell Jacket,272.0,0.84,Value,False,False
+TRF-0001,TrailForge AirLite Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,552.0,0.542,Mid-Market,False,False
+TRF-0002,TrailForge Breeze Outdoor Sandals,TrailForge,Sports & Outdoor,Outdoor Sandals,161.0,0.547,Value,False,False
+TRF-0003,TrailForge SunCore Swimwear,TrailForge,Sports & Outdoor,Swimwear,696.0,0.814,Premium,True,False
+TRF-0004,TrailForge Minimal Swimwear,TrailForge,Sports & Outdoor,Swimwear,197.0,0.812,Value,False,False
+TRF-0005,TrailForge CloudSoft Training Shoes,TrailForge,Sports & Outdoor,Training Shoes,313.0,0.874,Value,False,False
+TRF-0006,TrailForge Featherweight Yoga Set,TrailForge,Sports & Outdoor,Yoga Set,853.0,0.462,Premium,False,False
+TRF-0007,TrailForge Classic Swimwear,TrailForge,Sports & Outdoor,Swimwear,263.0,0.53,Value,False,False
+TRF-0008,TrailForge New Season Quick-Dry Tee,TrailForge,Sports & Outdoor,Quick-Dry Tee,500.0,0.586,Mid-Market,False,False
+TRF-0009,TrailForge Everyday Shell Jacket,TrailForge,Sports & Outdoor,Shell Jacket,265.0,0.555,Value,False,False
+TRF-0010,TrailForge Comfort Fit Down Jacket,TrailForge,Sports & Outdoor,Down Jacket,252.0,0.674,Value,True,False
+TRF-0011,TrailForge Urban Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,485.0,0.758,Mid-Market,False,False
+TRF-0012,TrailForge Lumen Quick-Dry Tee,TrailForge,Sports & Outdoor,Quick-Dry Tee,488.0,0.839,Mid-Market,False,False
+TRF-0013,TrailForge Breathable Outdoor Sandals,TrailForge,Sports & Outdoor,Outdoor Sandals,651.0,0.742,Premium,False,False
+TRF-0014,TrailForge GripPro Shell Jacket,TrailForge,Sports & Outdoor,Shell Jacket,629.0,0.815,Mid-Market,False,False
+TRF-0015,TrailForge CushionFlex Outdoor Sandals,TrailForge,Sports & Outdoor,Outdoor Sandals,576.0,0.639,Mid-Market,False,False
+TRF-0016,TrailForge Trail Ready Hiking Shoes,TrailForge,Sports & Outdoor,Hiking Shoes,780.0,0.604,Premium,False,False
+TRF-0017,TrailForge Limited Yoga Set,TrailForge,Sports & Outdoor,Yoga Set,514.0,0.715,Mid-Market,False,False
+TRF-0018,TrailForge Vintage Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,308.0,0.681,Value,False,False
+TRF-0019,TrailForge TechFeel Outdoor Sandals,TrailForge,Sports & Outdoor,Outdoor Sandals,293.0,0.771,Value,False,False
+TRF-0020,TrailForge Durable Swimwear,TrailForge,Sports & Outdoor,Swimwear,489.0,0.864,Mid-Market,False,False
+TRF-0021,TrailForge AirLite Swimwear,TrailForge,Sports & Outdoor,Swimwear,407.0,0.642,Mid-Market,True,False
+TRF-0022,TrailForge Breeze Training Shoes,TrailForge,Sports & Outdoor,Training Shoes,892.0,0.728,Premium,True,False
+TRF-0023,TrailForge SunCore Down Jacket,TrailForge,Sports & Outdoor,Down Jacket,286.0,0.586,Value,False,True
+TRF-0024,TrailForge Minimal Hiking Shoes,TrailForge,Sports & Outdoor,Hiking Shoes,633.0,0.719,Mid-Market,False,False
+TRF-0025,TrailForge CloudSoft Training Shoes,TrailForge,Sports & Outdoor,Training Shoes,394.0,0.566,Mid-Market,False,False
+TRF-0026,TrailForge Featherweight Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,665.0,0.711,Premium,False,False
+TRF-0027,TrailForge Classic Yoga Set,TrailForge,Sports & Outdoor,Yoga Set,518.0,0.948,Mid-Market,False,False
+TRF-0028,TrailForge New Season Swimwear,TrailForge,Sports & Outdoor,Swimwear,239.0,0.685,Value,False,False
+TRF-0029,TrailForge Everyday Down Jacket,TrailForge,Sports & Outdoor,Down Jacket,301.0,0.695,Value,False,False
+TRF-0030,TrailForge Comfort Fit Down Jacket,TrailForge,Sports & Outdoor,Down Jacket,308.0,0.74,Value,False,False
+TRF-0031,TrailForge Urban Training Shoes,TrailForge,Sports & Outdoor,Training Shoes,555.0,0.722,Mid-Market,False,True
+TRF-0032,TrailForge Lumen Shell Jacket,TrailForge,Sports & Outdoor,Shell Jacket,263.0,0.475,Value,False,False
+TRF-0033,TrailForge Breathable Swimwear,TrailForge,Sports & Outdoor,Swimwear,366.0,0.711,Value,False,False
+TRF-0034,TrailForge GripPro Shell Jacket,TrailForge,Sports & Outdoor,Shell Jacket,351.0,0.544,Value,True,False
+TRF-0035,TrailForge CushionFlex Yoga Set,TrailForge,Sports & Outdoor,Yoga Set,535.0,0.431,Mid-Market,False,False
+TRF-0036,TrailForge Trail Ready Outdoor Sandals,TrailForge,Sports & Outdoor,Outdoor Sandals,313.0,0.881,Value,False,False
+TRF-0037,TrailForge Limited Swimwear,TrailForge,Sports & Outdoor,Swimwear,322.0,0.534,Value,False,False
+TRF-0038,TrailForge Vintage Training Pants,TrailForge,Sports & Outdoor,Training Pants,216.0,0.582,Value,True,False
+TRF-0039,TrailForge TechFeel Yoga Set,TrailForge,Sports & Outdoor,Yoga Set,631.0,0.585,Mid-Market,True,False
+TRF-0040,TrailForge Durable Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,292.0,0.654,Value,False,False
+TRF-0041,TrailForge AirLite Swimwear,TrailForge,Sports & Outdoor,Swimwear,562.0,0.802,Mid-Market,False,False
+TRF-0042,TrailForge Breeze Shell Jacket,TrailForge,Sports & Outdoor,Shell Jacket,219.0,0.496,Value,False,False
+TRF-0043,TrailForge SunCore Training Pants,TrailForge,Sports & Outdoor,Training Pants,307.0,0.685,Value,False,False
+TRF-0044,TrailForge Minimal Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,570.0,0.609,Mid-Market,False,True
+TRF-0045,TrailForge CloudSoft Shell Jacket,TrailForge,Sports & Outdoor,Shell Jacket,279.0,0.812,Value,False,False
+TRF-0046,TrailForge Featherweight Training Shoes,TrailForge,Sports & Outdoor,Training Shoes,538.0,0.847,Mid-Market,False,False
+TRF-0047,TrailForge Classic Training Pants,TrailForge,Sports & Outdoor,Training Pants,755.0,0.728,Premium,False,False
+TRF-0048,TrailForge New Season Swimwear,TrailForge,Sports & Outdoor,Swimwear,248.0,0.432,Value,False,False
+TRF-0049,TrailForge Everyday Hiking Shoes,TrailForge,Sports & Outdoor,Hiking Shoes,561.0,0.625,Mid-Market,False,False
+TRF-0050,TrailForge Comfort Fit Sports Backpack,TrailForge,Sports & Outdoor,Sports Backpack,165.0,0.303,Value,False,False
+RGT-0001,RangeTrail AirLite Sports Backpack,RangeTrail,Sports & Outdoor,Sports Backpack,443.0,0.688,Premium,False,False
+RGT-0002,RangeTrail Breeze Swimwear,RangeTrail,Sports & Outdoor,Swimwear,195.0,0.652,Value,False,True
+RGT-0003,RangeTrail SunCore Training Pants,RangeTrail,Sports & Outdoor,Training Pants,406.0,0.704,Mid-Market,False,False
+RGT-0004,RangeTrail Minimal Yoga Set,RangeTrail,Sports & Outdoor,Yoga Set,204.0,0.542,Value,False,False
+RGT-0005,RangeTrail CloudSoft Training Shoes,RangeTrail,Sports & Outdoor,Training Shoes,381.0,0.638,Mid-Market,False,False
+RGT-0006,RangeTrail Featherweight Outdoor Sandals,RangeTrail,Sports & Outdoor,Outdoor Sandals,490.0,0.805,Premium,True,False
+RGT-0007,RangeTrail Classic Hiking Shoes,RangeTrail,Sports & Outdoor,Hiking Shoes,311.0,0.532,Mid-Market,False,True
+RGT-0008,RangeTrail New Season Sports Backpack,RangeTrail,Sports & Outdoor,Sports Backpack,362.0,0.808,Mid-Market,True,False
+RGT-0009,RangeTrail Everyday Down Jacket,RangeTrail,Sports & Outdoor,Down Jacket,354.0,0.406,Mid-Market,False,False
+RGT-0010,RangeTrail Comfort Fit Sports Backpack,RangeTrail,Sports & Outdoor,Sports Backpack,286.0,0.689,Mid-Market,True,False
+RGT-0011,RangeTrail Urban Sports Backpack,RangeTrail,Sports & Outdoor,Sports Backpack,519.0,0.487,Premium,True,False
+RGT-0012,RangeTrail Lumen Outdoor Sandals,RangeTrail,Sports & Outdoor,Outdoor Sandals,164.0,0.897,Value,False,True
+RGT-0013,RangeTrail Breathable Swimwear,RangeTrail,Sports & Outdoor,Swimwear,171.0,0.467,Value,False,False
+RGT-0014,RangeTrail GripPro Swimwear,RangeTrail,Sports & Outdoor,Swimwear,594.0,0.743,Premium,False,False
+RGT-0015,RangeTrail CushionFlex Swimwear,RangeTrail,Sports & Outdoor,Swimwear,542.0,0.564,Premium,False,False
+RGT-0016,RangeTrail Trail Ready Down Jacket,RangeTrail,Sports & Outdoor,Down Jacket,259.0,0.619,Mid-Market,False,False
+RGT-0017,RangeTrail Limited Yoga Set,RangeTrail,Sports & Outdoor,Yoga Set,569.0,0.559,Premium,False,False
+RGT-0018,RangeTrail Vintage Swimwear,RangeTrail,Sports & Outdoor,Swimwear,354.0,0.482,Mid-Market,False,False
+RGT-0019,RangeTrail TechFeel Training Pants,RangeTrail,Sports & Outdoor,Training Pants,281.0,0.723,Mid-Market,True,False
+RGT-0020,RangeTrail Durable Outdoor Sandals,RangeTrail,Sports & Outdoor,Outdoor Sandals,165.0,0.446,Value,False,False
+RGT-0021,RangeTrail AirLite Training Pants,RangeTrail,Sports & Outdoor,Training Pants,334.0,0.772,Mid-Market,False,False
+RGT-0022,RangeTrail Breeze Shell Jacket,RangeTrail,Sports & Outdoor,Shell Jacket,348.0,0.8,Mid-Market,False,False
+RGT-0023,RangeTrail SunCore Swimwear,RangeTrail,Sports & Outdoor,Swimwear,571.0,0.831,Premium,False,True
+RGT-0024,RangeTrail Minimal Training Shoes,RangeTrail,Sports & Outdoor,Training Shoes,153.0,0.638,Value,False,False
+RGT-0025,RangeTrail CloudSoft Swimwear,RangeTrail,Sports & Outdoor,Swimwear,361.0,0.935,Mid-Market,False,False
+RGT-0026,RangeTrail Featherweight Hiking Shoes,RangeTrail,Sports & Outdoor,Hiking Shoes,243.0,0.605,Value,False,False
+RGT-0027,RangeTrail Classic Outdoor Sandals,RangeTrail,Sports & Outdoor,Outdoor Sandals,219.0,0.783,Value,False,False
+RGT-0028,RangeTrail New Season Quick-Dry Tee,RangeTrail,Sports & Outdoor,Quick-Dry Tee,216.0,0.72,Value,False,False
+RGT-0029,RangeTrail Everyday Quick-Dry Tee,RangeTrail,Sports & Outdoor,Quick-Dry Tee,420.0,0.634,Mid-Market,False,False
+RGT-0030,RangeTrail Comfort Fit Swimwear,RangeTrail,Sports & Outdoor,Swimwear,565.0,0.841,Premium,False,True
+RGT-0031,RangeTrail Urban Hiking Shoes,RangeTrail,Sports & Outdoor,Hiking Shoes,340.0,0.479,Mid-Market,False,False
+RGT-0032,RangeTrail Lumen Hiking Shoes,RangeTrail,Sports & Outdoor,Hiking Shoes,578.0,0.313,Premium,False,False
+RGT-0033,RangeTrail Breathable Swimwear,RangeTrail,Sports & Outdoor,Swimwear,312.0,0.75,Mid-Market,False,False
+RGT-0034,RangeTrail GripPro Down Jacket,RangeTrail,Sports & Outdoor,Down Jacket,210.0,0.8,Value,True,False
+RGT-0035,RangeTrail CushionFlex Training Shoes,RangeTrail,Sports & Outdoor,Training Shoes,388.0,0.483,Mid-Market,False,False
+RGT-0036,RangeTrail Trail Ready Down Jacket,RangeTrail,Sports & Outdoor,Down Jacket,339.0,0.504,Mid-Market,False,True
+RGT-0037,RangeTrail Limited Training Shoes,RangeTrail,Sports & Outdoor,Training Shoes,414.0,0.396,Mid-Market,False,False
+RGT-0038,RangeTrail Vintage Swimwear,RangeTrail,Sports & Outdoor,Swimwear,406.0,0.763,Mid-Market,False,True
+RGT-0039,RangeTrail TechFeel Shell Jacket,RangeTrail,Sports & Outdoor,Shell Jacket,499.0,0.517,Premium,False,False
+RGT-0040,RangeTrail Durable Quick-Dry Tee,RangeTrail,Sports & Outdoor,Quick-Dry Tee,145.0,0.434,Value,False,False
+PQT-0001,PathQuest AirLite Sports Backpack,PathQuest,Sports & Outdoor,Sports Backpack,160.0,0.9,Value,False,False
+PQT-0002,PathQuest Breeze Quick-Dry Tee,PathQuest,Sports & Outdoor,Quick-Dry Tee,356.0,0.792,Mid-Market,False,True
+PQT-0003,PathQuest SunCore Quick-Dry Tee,PathQuest,Sports & Outdoor,Quick-Dry Tee,549.0,0.928,Premium,False,False
+PQT-0004,PathQuest Minimal Swimwear,PathQuest,Sports & Outdoor,Swimwear,208.0,0.701,Value,False,False
+PQT-0005,PathQuest CloudSoft Sports Backpack,PathQuest,Sports & Outdoor,Sports Backpack,261.0,0.807,Mid-Market,False,False
+PQT-0006,PathQuest Featherweight Shell Jacket,PathQuest,Sports & Outdoor,Shell Jacket,382.0,0.56,Mid-Market,False,False
+PQT-0007,PathQuest Classic Shell Jacket,PathQuest,Sports & Outdoor,Shell Jacket,277.0,0.637,Mid-Market,False,False
+PQT-0008,PathQuest New Season Down Jacket,PathQuest,Sports & Outdoor,Down Jacket,197.0,0.428,Value,False,False
+PQT-0009,PathQuest Everyday Training Shoes,PathQuest,Sports & Outdoor,Training Shoes,449.0,0.643,Premium,False,True
+PQT-0010,PathQuest Comfort Fit Training Pants,PathQuest,Sports & Outdoor,Training Pants,529.0,0.521,Premium,False,False
+PQT-0011,PathQuest Urban Training Shoes,PathQuest,Sports & Outdoor,Training Shoes,498.0,0.604,Premium,False,False
+PQT-0012,PathQuest Lumen Hiking Shoes,PathQuest,Sports & Outdoor,Hiking Shoes,527.0,0.381,Premium,True,False
+PQT-0013,PathQuest Breathable Hiking Shoes,PathQuest,Sports & Outdoor,Hiking Shoes,438.0,0.876,Premium,False,False
+PQT-0014,PathQuest GripPro Outdoor Sandals,PathQuest,Sports & Outdoor,Outdoor Sandals,415.0,0.625,Premium,True,False
+PQT-0015,PathQuest CushionFlex Outdoor Sandals,PathQuest,Sports & Outdoor,Outdoor Sandals,476.0,0.754,Premium,False,False
+PQT-0016,PathQuest Trail Ready Swimwear,PathQuest,Sports & Outdoor,Swimwear,502.0,0.798,Premium,True,False
+PQT-0017,PathQuest Limited Hiking Shoes,PathQuest,Sports & Outdoor,Hiking Shoes,245.0,0.62,Mid-Market,False,False
+PQT-0018,PathQuest Vintage Swimwear,PathQuest,Sports & Outdoor,Swimwear,436.0,0.559,Premium,False,False
+PQT-0019,PathQuest TechFeel Swimwear,PathQuest,Sports & Outdoor,Swimwear,161.0,0.674,Value,False,False
+PQT-0020,PathQuest Durable Shell Jacket,PathQuest,Sports & Outdoor,Shell Jacket,294.0,0.869,Mid-Market,False,False
+PQT-0021,PathQuest AirLite Sports Backpack,PathQuest,Sports & Outdoor,Sports Backpack,268.0,0.555,Mid-Market,False,False
+PQT-0022,PathQuest Breeze Hiking Shoes,PathQuest,Sports & Outdoor,Hiking Shoes,117.0,0.638,Value,False,False
+PQT-0023,PathQuest SunCore Swimwear,PathQuest,Sports & Outdoor,Swimwear,189.0,0.726,Value,False,False
+PQT-0024,PathQuest Minimal Outdoor Sandals,PathQuest,Sports & Outdoor,Outdoor Sandals,343.0,0.928,Mid-Market,True,True
+PQT-0025,PathQuest CloudSoft Training Shoes,PathQuest,Sports & Outdoor,Training Shoes,336.0,0.489,Mid-Market,False,False
+PQT-0026,PathQuest Featherweight Swimwear,PathQuest,Sports & Outdoor,Swimwear,509.0,0.545,Premium,False,False
+PQT-0027,PathQuest Classic Training Pants,PathQuest,Sports & Outdoor,Training Pants,265.0,0.771,Mid-Market,False,False
+PQT-0028,PathQuest New Season Swimwear,PathQuest,Sports & Outdoor,Swimwear,166.0,0.836,Value,False,False
+PQT-0029,PathQuest Everyday Training Pants,PathQuest,Sports & Outdoor,Training Pants,398.0,0.863,Premium,False,False
+PQT-0030,PathQuest Comfort Fit Outdoor Sandals,PathQuest,Sports & Outdoor,Outdoor Sandals,247.0,0.562,Mid-Market,True,False
+PQT-0031,PathQuest Urban Outdoor Sandals,PathQuest,Sports & Outdoor,Outdoor Sandals,428.0,0.546,Premium,False,False
+PQT-0032,PathQuest Lumen Sports Backpack,PathQuest,Sports & Outdoor,Sports Backpack,534.0,0.751,Premium,False,False
+PQT-0033,PathQuest Breathable Training Shoes,PathQuest,Sports & Outdoor,Training Shoes,315.0,0.747,Mid-Market,False,False
+PQT-0034,PathQuest GripPro Shell Jacket,PathQuest,Sports & Outdoor,Shell Jacket,331.0,0.507,Mid-Market,False,False
+PQT-0035,PathQuest CushionFlex Shell Jacket,PathQuest,Sports & Outdoor,Shell Jacket,221.0,0.591,Value,False,False
+PQT-0036,PathQuest Trail Ready Swimwear,PathQuest,Sports & Outdoor,Swimwear,194.0,0.461,Value,True,False
+PQT-0037,PathQuest Limited Training Pants,PathQuest,Sports & Outdoor,Training Pants,109.0,0.598,Value,False,False
+PQT-0038,PathQuest Vintage Down Jacket,PathQuest,Sports & Outdoor,Down Jacket,132.0,0.601,Value,False,False
+TFO-0001,TerraFlow Outfitters AirLite Training Pants,TerraFlow Outfitters,Sports & Outdoor,Training Pants,104.0,0.525,Value,False,False
+TFO-0002,TerraFlow Outfitters Breeze Sports Backpack,TerraFlow Outfitters,Sports & Outdoor,Sports Backpack,382.0,0.47,Premium,False,False
+TFO-0003,TerraFlow Outfitters SunCore Quick-Dry Tee,TerraFlow Outfitters,Sports & Outdoor,Quick-Dry Tee,251.0,0.554,Mid-Market,True,False
+TFO-0004,TerraFlow Outfitters Minimal Sports Backpack,TerraFlow Outfitters,Sports & Outdoor,Sports Backpack,90.0,0.617,Value,False,True
+TFO-0005,TerraFlow Outfitters CloudSoft Shell Jacket,TerraFlow Outfitters,Sports & Outdoor,Shell Jacket,201.0,0.669,Value,False,False
+TFO-0006,TerraFlow Outfitters Featherweight Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,100.0,0.529,Value,False,False
+TFO-0007,TerraFlow Outfitters Classic Quick-Dry Tee,TerraFlow Outfitters,Sports & Outdoor,Quick-Dry Tee,293.0,0.814,Mid-Market,False,True
+TFO-0008,TerraFlow Outfitters New Season Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,414.0,0.9,Premium,False,False
+TFO-0009,TerraFlow Outfitters Everyday Hiking Shoes,TerraFlow Outfitters,Sports & Outdoor,Hiking Shoes,324.0,0.638,Mid-Market,False,False
+TFO-0010,TerraFlow Outfitters Comfort Fit Hiking Shoes,TerraFlow Outfitters,Sports & Outdoor,Hiking Shoes,314.0,0.454,Mid-Market,False,False
+TFO-0011,TerraFlow Outfitters Urban Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,315.0,0.592,Mid-Market,False,False
+TFO-0012,TerraFlow Outfitters Lumen Yoga Set,TerraFlow Outfitters,Sports & Outdoor,Yoga Set,173.0,0.787,Value,False,False
+TFO-0013,TerraFlow Outfitters Breathable Hiking Shoes,TerraFlow Outfitters,Sports & Outdoor,Hiking Shoes,309.0,0.55,Mid-Market,False,False
+TFO-0014,TerraFlow Outfitters GripPro Swimwear,TerraFlow Outfitters,Sports & Outdoor,Swimwear,388.0,0.657,Premium,False,False
+TFO-0015,TerraFlow Outfitters CushionFlex Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,318.0,0.463,Mid-Market,False,False
+TFO-0016,TerraFlow Outfitters Trail Ready Swimwear,TerraFlow Outfitters,Sports & Outdoor,Swimwear,120.0,0.885,Value,False,False
+TFO-0017,TerraFlow Outfitters Limited Hiking Shoes,TerraFlow Outfitters,Sports & Outdoor,Hiking Shoes,365.0,0.907,Premium,False,False
+TFO-0018,TerraFlow Outfitters Vintage Training Shoes,TerraFlow Outfitters,Sports & Outdoor,Training Shoes,298.0,0.792,Mid-Market,False,False
+TFO-0019,TerraFlow Outfitters TechFeel Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,269.0,0.661,Mid-Market,False,False
+TFO-0020,TerraFlow Outfitters Durable Training Shoes,TerraFlow Outfitters,Sports & Outdoor,Training Shoes,223.0,0.536,Mid-Market,False,False
+TFO-0021,TerraFlow Outfitters AirLite Sports Backpack,TerraFlow Outfitters,Sports & Outdoor,Sports Backpack,348.0,0.662,Mid-Market,False,False
+TFO-0022,TerraFlow Outfitters Breeze Quick-Dry Tee,TerraFlow Outfitters,Sports & Outdoor,Quick-Dry Tee,294.0,0.502,Mid-Market,False,False
+TFO-0023,TerraFlow Outfitters SunCore Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,90.0,0.911,Value,False,False
+TFO-0024,TerraFlow Outfitters Minimal Outdoor Sandals,TerraFlow Outfitters,Sports & Outdoor,Outdoor Sandals,488.0,0.489,Premium,False,False
+TFO-0025,TerraFlow Outfitters CloudSoft Down Jacket,TerraFlow Outfitters,Sports & Outdoor,Down Jacket,314.0,0.402,Mid-Market,False,True
+TFO-0026,TerraFlow Outfitters Featherweight Training Pants,TerraFlow Outfitters,Sports & Outdoor,Training Pants,268.0,0.572,Mid-Market,True,True
+TFO-0027,TerraFlow Outfitters Classic Shell Jacket,TerraFlow Outfitters,Sports & Outdoor,Shell Jacket,214.0,0.49,Mid-Market,False,True
+TFO-0028,TerraFlow Outfitters New Season Yoga Set,TerraFlow Outfitters,Sports & Outdoor,Yoga Set,211.0,0.711,Mid-Market,False,False
+TFO-0029,TerraFlow Outfitters Everyday Outdoor Sandals,TerraFlow Outfitters,Sports & Outdoor,Outdoor Sandals,220.0,0.29,Mid-Market,False,False
+TFO-0030,TerraFlow Outfitters Comfort Fit Quick-Dry Tee,TerraFlow Outfitters,Sports & Outdoor,Quick-Dry Tee,276.0,0.683,Mid-Market,False,False
+TFO-0031,TerraFlow Outfitters Urban Sports Backpack,TerraFlow Outfitters,Sports & Outdoor,Sports Backpack,442.0,0.717,Premium,False,False
+TFO-0032,TerraFlow Outfitters Lumen Quick-Dry Tee,TerraFlow Outfitters,Sports & Outdoor,Quick-Dry Tee,81.0,0.774,Value,False,False
+STA-0001,StreetArc AirLite Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,384.0,0.522,Mid-Market,False,False
+STA-0002,StreetArc Breeze Sandals,StreetArc,Footwear,Sandals,385.0,0.755,Mid-Market,False,False
+STA-0003,StreetArc SunCore Canvas Sneakers,StreetArc,Footwear,Canvas Sneakers,328.0,0.615,Value,False,False
+STA-0004,StreetArc Minimal Boots,StreetArc,Footwear,Boots,361.0,0.569,Value,False,False
+STA-0005,StreetArc CloudSoft Leather Shoes,StreetArc,Footwear,Leather Shoes,224.0,0.786,Value,False,False
+STA-0006,StreetArc Featherweight Workwear Shoes,StreetArc,Footwear,Workwear Shoes,354.0,0.708,Value,False,False
+STA-0007,StreetArc Classic Running Shoes,StreetArc,Footwear,Running Shoes,320.0,0.318,Value,False,False
+STA-0008,StreetArc New Season Leather Shoes,StreetArc,Footwear,Leather Shoes,411.0,0.77,Mid-Market,False,False
+STA-0009,StreetArc Everyday Canvas Sneakers,StreetArc,Footwear,Canvas Sneakers,604.0,0.652,Premium,False,False
+STA-0010,StreetArc Comfort Fit Running Shoes,StreetArc,Footwear,Running Shoes,488.0,0.827,Mid-Market,False,True
+STA-0011,StreetArc Urban Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,373.0,0.871,Mid-Market,False,False
+STA-0012,StreetArc Lumen Boots,StreetArc,Footwear,Boots,432.0,0.811,Mid-Market,False,True
+STA-0013,StreetArc Breathable Workwear Shoes,StreetArc,Footwear,Workwear Shoes,602.0,0.581,Premium,False,False
+STA-0014,StreetArc GripPro Skate Shoes,StreetArc,Footwear,Skate Shoes,443.0,0.492,Mid-Market,False,False
+STA-0015,StreetArc CushionFlex Skate Shoes,StreetArc,Footwear,Skate Shoes,298.0,0.541,Value,False,False
+STA-0016,StreetArc Trail Ready Skate Shoes,StreetArc,Footwear,Skate Shoes,617.0,0.751,Premium,False,False
+STA-0017,StreetArc Limited Running Shoes,StreetArc,Footwear,Running Shoes,331.0,0.475,Value,False,False
+STA-0018,StreetArc Vintage Boots,StreetArc,Footwear,Boots,613.0,0.728,Premium,False,False
+STA-0019,StreetArc TechFeel Workwear Shoes,StreetArc,Footwear,Workwear Shoes,225.0,0.557,Value,True,False
+STA-0020,StreetArc Durable Boots,StreetArc,Footwear,Boots,332.0,0.297,Value,True,False
+STA-0021,StreetArc AirLite Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,512.0,0.38,Mid-Market,False,False
+STA-0022,StreetArc Breeze Skate Shoes,StreetArc,Footwear,Skate Shoes,555.0,0.882,Premium,False,False
+STA-0023,StreetArc SunCore Leather Shoes,StreetArc,Footwear,Leather Shoes,282.0,0.678,Value,False,False
+STA-0024,StreetArc Minimal Boots,StreetArc,Footwear,Boots,587.0,0.603,Premium,False,False
+STA-0025,StreetArc CloudSoft Boots,StreetArc,Footwear,Boots,284.0,0.568,Value,False,False
+STA-0026,StreetArc Featherweight Boots,StreetArc,Footwear,Boots,391.0,0.649,Mid-Market,False,False
+STA-0027,StreetArc Classic Skate Shoes,StreetArc,Footwear,Skate Shoes,450.0,0.638,Mid-Market,False,False
+STA-0028,StreetArc New Season Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,281.0,0.767,Value,False,False
+STA-0029,StreetArc Everyday Leather Shoes,StreetArc,Footwear,Leather Shoes,251.0,0.9,Value,False,False
+STA-0030,StreetArc Comfort Fit Sandals,StreetArc,Footwear,Sandals,627.0,0.7,Premium,False,False
+STA-0031,StreetArc Urban Canvas Sneakers,StreetArc,Footwear,Canvas Sneakers,379.0,0.785,Mid-Market,False,False
+STA-0032,StreetArc Lumen Leather Shoes,StreetArc,Footwear,Leather Shoes,417.0,0.639,Mid-Market,False,False
+STA-0033,StreetArc Breathable Skate Shoes,StreetArc,Footwear,Skate Shoes,290.0,0.623,Value,False,False
+STA-0034,StreetArc GripPro Skate Shoes,StreetArc,Footwear,Skate Shoes,528.0,0.586,Mid-Market,False,False
+STA-0035,StreetArc CushionFlex Leather Shoes,StreetArc,Footwear,Leather Shoes,305.0,0.776,Value,False,False
+STA-0036,StreetArc Trail Ready Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,543.0,0.85,Premium,False,False
+STA-0037,StreetArc Limited Running Shoes,StreetArc,Footwear,Running Shoes,250.0,0.767,Value,False,False
+STA-0038,StreetArc Vintage Canvas Sneakers,StreetArc,Footwear,Canvas Sneakers,665.0,0.825,Premium,False,True
+STA-0039,StreetArc TechFeel Workwear Shoes,StreetArc,Footwear,Workwear Shoes,673.0,0.421,Premium,False,False
+STA-0040,StreetArc Durable Skate Shoes,StreetArc,Footwear,Skate Shoes,418.0,0.383,Mid-Market,False,False
+STA-0041,StreetArc AirLite Canvas Sneakers,StreetArc,Footwear,Canvas Sneakers,479.0,0.688,Mid-Market,False,False
+STA-0042,StreetArc Breeze Boots,StreetArc,Footwear,Boots,458.0,0.627,Mid-Market,False,False
+STA-0043,StreetArc SunCore Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,450.0,0.531,Mid-Market,True,False
+STA-0044,StreetArc Minimal Sandals,StreetArc,Footwear,Sandals,256.0,0.784,Value,False,False
+STA-0045,StreetArc CloudSoft Athleisure Sneakers,StreetArc,Footwear,Athleisure Sneakers,499.0,0.513,Mid-Market,False,True
+STA-0046,StreetArc Featherweight Workwear Shoes,StreetArc,Footwear,Workwear Shoes,452.0,0.67,Mid-Market,True,False
+STA-0047,StreetArc Classic Running Shoes,StreetArc,Footwear,Running Shoes,319.0,0.916,Value,False,False
+STA-0048,StreetArc New Season Workwear Shoes,StreetArc,Footwear,Workwear Shoes,509.0,0.907,Mid-Market,False,False
+STA-0049,StreetArc Everyday Canvas Sneakers,StreetArc,Footwear,Canvas Sneakers,521.0,0.856,Mid-Market,False,False
+STA-0050,StreetArc Comfort Fit Skate Shoes,StreetArc,Footwear,Skate Shoes,420.0,0.543,Mid-Market,False,False
+STA-0051,StreetArc Urban Leather Shoes,StreetArc,Footwear,Leather Shoes,695.0,0.427,Premium,True,False
+STA-0052,StreetArc Lumen Leather Shoes,StreetArc,Footwear,Leather Shoes,684.0,0.826,Premium,False,True
+STA-0053,StreetArc Breathable Skate Shoes,StreetArc,Footwear,Skate Shoes,280.0,0.599,Value,False,False
+STA-0054,StreetArc GripPro Sandals,StreetArc,Footwear,Sandals,591.0,0.686,Premium,False,False
+STA-0055,StreetArc CushionFlex Running Shoes,StreetArc,Footwear,Running Shoes,237.0,0.232,Value,False,True
+HRW-0001,Heritage Walk AirLite Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,200.0,0.911,Mid-Market,False,False
+HRW-0002,Heritage Walk Breeze Boots,Heritage Walk,Footwear,Boots,66.0,0.38,Value,False,False
+HRW-0003,Heritage Walk SunCore Workwear Shoes,Heritage Walk,Footwear,Workwear Shoes,113.0,0.908,Value,False,False
+HRW-0004,Heritage Walk Minimal Running Shoes,Heritage Walk,Footwear,Running Shoes,100.0,0.39,Value,False,False
+HRW-0005,Heritage Walk CloudSoft Workwear Shoes,Heritage Walk,Footwear,Workwear Shoes,184.0,0.863,Mid-Market,False,False
+HRW-0006,Heritage Walk Featherweight Running Shoes,Heritage Walk,Footwear,Running Shoes,108.0,0.774,Value,False,False
+HRW-0007,Heritage Walk Classic Skate Shoes,Heritage Walk,Footwear,Skate Shoes,190.0,0.445,Mid-Market,False,True
+HRW-0008,Heritage Walk New Season Skate Shoes,Heritage Walk,Footwear,Skate Shoes,128.0,0.802,Value,True,False
+HRW-0009,Heritage Walk Everyday Skate Shoes,Heritage Walk,Footwear,Skate Shoes,208.0,0.811,Mid-Market,False,False
+HRW-0010,Heritage Walk Comfort Fit Workwear Shoes,Heritage Walk,Footwear,Workwear Shoes,151.0,0.577,Mid-Market,False,False
+HRW-0011,Heritage Walk Urban Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,214.0,0.75,Mid-Market,False,False
+HRW-0012,Heritage Walk Lumen Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,123.0,0.9,Value,True,False
+HRW-0013,Heritage Walk Breathable Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,73.0,0.591,Value,False,True
+HRW-0014,Heritage Walk GripPro Leather Shoes,Heritage Walk,Footwear,Leather Shoes,68.0,0.654,Value,False,False
+HRW-0015,Heritage Walk CushionFlex Athleisure Sneakers,Heritage Walk,Footwear,Athleisure Sneakers,188.0,0.603,Mid-Market,False,False
+HRW-0016,Heritage Walk Trail Ready Skate Shoes,Heritage Walk,Footwear,Skate Shoes,201.0,0.741,Mid-Market,False,False
+HRW-0017,Heritage Walk Limited Running Shoes,Heritage Walk,Footwear,Running Shoes,207.0,0.467,Mid-Market,False,False
+HRW-0018,Heritage Walk Vintage Running Shoes,Heritage Walk,Footwear,Running Shoes,294.0,0.838,Premium,False,False
+HRW-0019,Heritage Walk TechFeel Sandals,Heritage Walk,Footwear,Sandals,268.0,0.582,Premium,False,False
+HRW-0020,Heritage Walk Durable Sandals,Heritage Walk,Footwear,Sandals,118.0,0.642,Value,False,False
+HRW-0021,Heritage Walk AirLite Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,238.0,0.736,Premium,False,False
+HRW-0022,Heritage Walk Breeze Boots,Heritage Walk,Footwear,Boots,257.0,0.544,Premium,False,False
+HRW-0023,Heritage Walk SunCore Workwear Shoes,Heritage Walk,Footwear,Workwear Shoes,247.0,0.579,Premium,True,False
+HRW-0024,Heritage Walk Minimal Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,284.0,0.776,Premium,False,True
+HRW-0025,Heritage Walk CloudSoft Skate Shoes,Heritage Walk,Footwear,Skate Shoes,202.0,0.764,Mid-Market,False,False
+HRW-0026,Heritage Walk Featherweight Sandals,Heritage Walk,Footwear,Sandals,85.0,0.589,Value,False,False
+HRW-0027,Heritage Walk Classic Boots,Heritage Walk,Footwear,Boots,205.0,0.547,Mid-Market,False,False
+HRW-0028,Heritage Walk New Season Athleisure Sneakers,Heritage Walk,Footwear,Athleisure Sneakers,122.0,0.865,Value,False,False
+HRW-0029,Heritage Walk Everyday Sandals,Heritage Walk,Footwear,Sandals,287.0,0.598,Premium,False,False
+HRW-0030,Heritage Walk Comfort Fit Leather Shoes,Heritage Walk,Footwear,Leather Shoes,132.0,0.356,Mid-Market,False,False
+HRW-0031,Heritage Walk Urban Sandals,Heritage Walk,Footwear,Sandals,149.0,0.733,Mid-Market,False,False
+HRW-0032,Heritage Walk Lumen Skate Shoes,Heritage Walk,Footwear,Skate Shoes,169.0,0.884,Mid-Market,False,False
+HRW-0033,Heritage Walk Breathable Leather Shoes,Heritage Walk,Footwear,Leather Shoes,282.0,0.869,Premium,False,False
+HRW-0034,Heritage Walk GripPro Running Shoes,Heritage Walk,Footwear,Running Shoes,125.0,0.46,Value,False,False
+HRW-0035,Heritage Walk CushionFlex Leather Shoes,Heritage Walk,Footwear,Leather Shoes,139.0,0.535,Mid-Market,False,False
+HRW-0036,Heritage Walk Trail Ready Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,275.0,0.857,Premium,False,False
+HRW-0037,Heritage Walk Limited Boots,Heritage Walk,Footwear,Boots,230.0,0.49,Premium,False,False
+HRW-0038,Heritage Walk Vintage Running Shoes,Heritage Walk,Footwear,Running Shoes,222.0,0.33,Premium,False,False
+HRW-0039,Heritage Walk TechFeel Skate Shoes,Heritage Walk,Footwear,Skate Shoes,76.0,0.561,Value,False,False
+HRW-0040,Heritage Walk Durable Skate Shoes,Heritage Walk,Footwear,Skate Shoes,108.0,0.567,Value,False,False
+HRW-0041,Heritage Walk AirLite Skate Shoes,Heritage Walk,Footwear,Skate Shoes,157.0,0.592,Mid-Market,False,False
+HRW-0042,Heritage Walk Breeze Canvas Sneakers,Heritage Walk,Footwear,Canvas Sneakers,172.0,0.682,Mid-Market,False,False
+HRW-0043,Heritage Walk SunCore Leather Shoes,Heritage Walk,Footwear,Leather Shoes,239.0,0.71,Premium,False,True
+HRW-0044,Heritage Walk Minimal Athleisure Sneakers,Heritage Walk,Footwear,Athleisure Sneakers,128.0,0.409,Value,True,False
+HRW-0045,Heritage Walk CloudSoft Sandals,Heritage Walk,Footwear,Sandals,216.0,0.657,Premium,False,False
+UBE-0001,UrbanEase AirLite Canvas Sneakers,MetroStride,Footwear,Running Shoes,350.0,0.619,Mid-Market,True,False
+UBE-0002,UrbanEase Breeze Canvas Sneakers,MetroStride,Footwear,Workwear Shoes,520.0,0.538,Premium,True,False
+UBE-0003,UrbanEase SunCore Sandals,MetroStride,Footwear,Sandals,345.0,0.662,Mid-Market,False,False
+UBE-0004,UrbanEase Minimal Leather Shoes,MetroStride,Footwear,Canvas Sneakers,575.0,0.797,Premium,True,True
+UBE-0005,UrbanEase CloudSoft Canvas Sneakers,MetroStride,Footwear,Running Shoes,400.0,0.721,Mid-Market,False,False
+UBE-0006,UrbanEase Featherweight Workwear Shoes,MetroStride,Footwear,Sandals,532.0,0.576,Premium,True,False
+UBE-0007,UrbanEase Classic Athleisure Sneakers,MetroStride,Footwear,Workwear Shoes,404.0,0.54,Mid-Market,False,False
+UBE-0008,UrbanEase New Season Athleisure Sneakers,MetroStride,Footwear,Sandals,348.0,0.944,Mid-Market,False,False
+UBE-0009,UrbanEase Everyday Skate Shoes,MetroStride,Footwear,Boots,309.0,0.898,Mid-Market,False,False
+UBE-0010,UrbanEase Comfort Fit Running Shoes,MetroStride,Footwear,Athleisure Sneakers,153.0,0.559,Value,False,False
+UBE-0011,UrbanEase Urban Skate Shoes,MetroStride,Footwear,Boots,344.0,0.521,Mid-Market,False,False
+UBE-0012,UrbanEase Lumen Athleisure Sneakers,MetroStride,Footwear,Boots,229.0,0.414,Value,True,False
+UBE-0013,UrbanEase Breathable Canvas Sneakers,MetroStride,Footwear,Sandals,279.0,0.328,Mid-Market,False,False
+UBE-0014,UrbanEase GripPro Leather Shoes,MetroStride,Footwear,Skate Shoes,455.0,0.23,Premium,False,False
+UBE-0015,UrbanEase CushionFlex Athleisure Sneakers,MetroStride,Footwear,Athleisure Sneakers,314.0,0.541,Mid-Market,False,False
+UBE-0016,UrbanEase Trail Ready Workwear Shoes,MetroStride,Footwear,Running Shoes,130.0,0.545,Value,False,False
+UBE-0017,UrbanEase Limited Workwear Shoes,MetroStride,Footwear,Leather Shoes,182.0,0.808,Value,False,False
+UBE-0018,UrbanEase Vintage Athleisure Sneakers,MetroStride,Footwear,Boots,511.0,0.552,Premium,False,True
+UBE-0019,UrbanEase TechFeel Athleisure Sneakers,MetroStride,Footwear,Skate Shoes,373.0,0.702,Mid-Market,False,False
+UBE-0020,UrbanEase Durable Boots,MetroStride,Footwear,Running Shoes,460.0,0.57,Premium,False,False
+UBE-0021,UrbanEase AirLite Running Shoes,MetroStride,Footwear,Running Shoes,444.0,0.734,Premium,True,True
+UBE-0022,UrbanEase Breeze Sandals,MetroStride,Footwear,Workwear Shoes,157.0,0.141,Value,False,False
+UBE-0023,UrbanEase SunCore Sandals,MetroStride,Footwear,Skate Shoes,227.0,0.829,Value,False,False
+UBE-0024,UrbanEase Minimal Athleisure Sneakers,MetroStride,Footwear,Running Shoes,469.0,0.825,Premium,True,False
+UBE-0025,UrbanEase CloudSoft Running Shoes,MetroStride,Footwear,Running Shoes,477.0,0.654,Premium,False,False
+UBE-0026,UrbanEase Featherweight Workwear Shoes,MetroStride,Footwear,Sandals,397.0,0.829,Mid-Market,False,False
+UBE-0027,UrbanEase Classic Canvas Sneakers,MetroStride,Footwear,Running Shoes,301.0,0.779,Mid-Market,False,True
+UBE-0028,UrbanEase New Season Athleisure Sneakers,MetroStride,Footwear,Skate Shoes,526.0,0.672,Premium,False,False
+UBE-0029,UrbanEase Everyday Boots,MetroStride,Footwear,Workwear Shoes,586.0,0.596,Premium,True,False
+UBE-0030,UrbanEase Comfort Fit Sandals,MetroStride,Footwear,Canvas Sneakers,388.0,0.683,Mid-Market,True,False
+UBE-0031,UrbanEase Urban Athleisure Sneakers,MetroStride,Footwear,Canvas Sneakers,408.0,0.633,Mid-Market,False,False
+UBE-0032,UrbanEase Lumen Skate Shoes,MetroStride,Footwear,Running Shoes,172.0,0.336,Value,False,False
+UBE-0033,UrbanEase Breathable Running Shoes,MetroStride,Footwear,Running Shoes,312.0,0.737,Mid-Market,False,False
+UBE-0034,UrbanEase GripPro Canvas Sneakers,MetroStride,Footwear,Canvas Sneakers,304.0,0.515,Mid-Market,False,False
+UBE-0035,UrbanEase CushionFlex Skate Shoes,MetroStride,Footwear,Sandals,427.0,0.754,Mid-Market,False,False
+UBE-0036,UrbanEase Trail Ready Athleisure Sneakers,MetroStride,Footwear,Boots,239.0,0.771,Value,False,False
+UBE-0037,UrbanEase Limited Workwear Shoes,MetroStride,Footwear,Leather Shoes,357.0,0.758,Mid-Market,False,False
+UBE-0038,UrbanEase Vintage Running Shoes,MetroStride,Footwear,Canvas Sneakers,554.0,0.559,Premium,False,False
+UBE-0039,UrbanEase TechFeel Sandals,MetroStride,Footwear,Boots,283.0,0.696,Mid-Market,False,False
+UBE-0040,UrbanEase Durable Skate Shoes,MetroStride,Footwear,Skate Shoes,359.0,0.874,Mid-Market,False,False
+UBE-0041,UrbanEase AirLite Skate Shoes,MetroStride,Footwear,Boots,164.0,0.692,Value,False,False
+UBE-0042,UrbanEase Breeze Canvas Sneakers,MetroStride,Footwear,Leather Shoes,533.0,0.696,Premium,False,True
+MTS-0043,MetroStride SunCore Boots,MetroStride,Footwear,Boots,523.0,0.61,Premium,False,False
+MTS-0044,MetroStride Minimal Leather Shoes,MetroStride,Footwear,Leather Shoes,345.0,0.586,Mid-Market,False,False
+MTS-0045,MetroStride CloudSoft Leather Shoes,MetroStride,Footwear,Leather Shoes,261.0,0.377,Value,False,False
+MTS-0046,MetroStride Featherweight Workwear Shoes,MetroStride,Footwear,Workwear Shoes,533.0,0.537,Premium,False,True
+MTS-0047,MetroStride Classic Workwear Shoes,MetroStride,Footwear,Workwear Shoes,316.0,0.424,Mid-Market,False,True
+MTS-0048,MetroStride New Season Skate Shoes,MetroStride,Footwear,Skate Shoes,199.0,0.439,Value,False,False
+MTS-0049,MetroStride Everyday Leather Shoes,MetroStride,Footwear,Leather Shoes,444.0,0.646,Premium,False,False
+MTS-0050,MetroStride Comfort Fit Canvas Sneakers,MetroStride,Footwear,Canvas Sneakers,411.0,0.577,Mid-Market,False,False
+MTS-0051,MetroStride Urban Workwear Shoes,MetroStride,Footwear,Workwear Shoes,433.0,0.536,Mid-Market,False,True
+MTS-0052,MetroStride Lumen Sandals,MetroStride,Footwear,Sandals,314.0,0.784,Mid-Market,False,False
+MTS-0053,MetroStride Breathable Athleisure Sneakers,MetroStride,Footwear,Athleisure Sneakers,361.0,0.606,Mid-Market,True,False
+MTS-0054,MetroStride GripPro Canvas Sneakers,MetroStride,Footwear,Canvas Sneakers,280.0,0.615,Mid-Market,False,False
+MTS-0055,MetroStride CushionFlex Workwear Shoes,MetroStride,Footwear,Workwear Shoes,337.0,0.509,Mid-Market,True,False
+MTS-0056,MetroStride Trail Ready Athleisure Sneakers,MetroStride,Footwear,Athleisure Sneakers,444.0,0.849,Premium,False,True
+MTS-0057,MetroStride Limited Skate Shoes,MetroStride,Footwear,Skate Shoes,422.0,0.67,Mid-Market,False,True
+MTS-0058,MetroStride Vintage Canvas Sneakers,MetroStride,Footwear,Canvas Sneakers,272.0,0.492,Mid-Market,False,False
+MTS-0059,MetroStride TechFeel Running Shoes,MetroStride,Footwear,Running Shoes,319.0,0.548,Mid-Market,False,False
+MTS-0060,MetroStride Durable Athleisure Sneakers,MetroStride,Footwear,Athleisure Sneakers,140.0,0.618,Value,False,True
+CRW-0001,CrimsonWing AirLite Boots,CrimsonWing,Footwear,Boots,220.0,0.638,Value,False,False
+CRW-0002,CrimsonWing Breeze Workwear Shoes,CrimsonWing,Footwear,Workwear Shoes,422.0,0.423,Premium,False,False
+CRW-0003,CrimsonWing SunCore Leather Shoes,CrimsonWing,Footwear,Leather Shoes,227.0,0.492,Value,False,False
+CRW-0004,CrimsonWing Minimal Workwear Shoes,CrimsonWing,Footwear,Workwear Shoes,151.0,0.706,Value,False,False
+CRW-0005,CrimsonWing CloudSoft Skate Shoes,CrimsonWing,Footwear,Skate Shoes,439.0,0.885,Premium,False,True
+CRW-0006,CrimsonWing Featherweight Leather Shoes,CrimsonWing,Footwear,Leather Shoes,186.0,0.314,Value,False,True
+CRW-0007,CrimsonWing Classic Boots,CrimsonWing,Footwear,Boots,392.0,0.59,Mid-Market,False,False
+CRW-0008,CrimsonWing New Season Workwear Shoes,CrimsonWing,Footwear,Workwear Shoes,332.0,0.832,Mid-Market,False,False
+CRW-0009,CrimsonWing Everyday Leather Shoes,CrimsonWing,Footwear,Leather Shoes,210.0,0.62,Value,False,False
+CRW-0010,CrimsonWing Comfort Fit Skate Shoes,CrimsonWing,Footwear,Skate Shoes,319.0,0.776,Mid-Market,True,False
+CRW-0011,CrimsonWing Urban Running Shoes,CrimsonWing,Footwear,Running Shoes,511.0,0.889,Premium,False,True
+CRW-0012,CrimsonWing Lumen Skate Shoes,CrimsonWing,Footwear,Skate Shoes,303.0,0.566,Mid-Market,False,False
+CRW-0013,CrimsonWing Breathable Athleisure Sneakers,CrimsonWing,Footwear,Athleisure Sneakers,231.0,0.697,Value,False,False
+CRW-0014,CrimsonWing GripPro Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,324.0,0.46,Mid-Market,False,True
+CRW-0015,CrimsonWing CushionFlex Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,223.0,0.251,Value,False,False
+CRW-0016,CrimsonWing Trail Ready Running Shoes,CrimsonWing,Footwear,Running Shoes,344.0,0.678,Mid-Market,False,False
+CRW-0017,CrimsonWing Limited Sandals,CrimsonWing,Footwear,Sandals,322.0,0.623,Mid-Market,False,False
+CRW-0018,CrimsonWing Vintage Leather Shoes,CrimsonWing,Footwear,Leather Shoes,447.0,0.42,Premium,False,False
+CRW-0019,CrimsonWing TechFeel Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,193.0,0.785,Value,False,False
+CRW-0020,CrimsonWing Durable Leather Shoes,CrimsonWing,Footwear,Leather Shoes,271.0,0.455,Mid-Market,True,False
+CRW-0021,CrimsonWing AirLite Sandals,CrimsonWing,Footwear,Sandals,347.0,0.846,Mid-Market,False,False
+CRW-0022,CrimsonWing Breeze Leather Shoes,CrimsonWing,Footwear,Leather Shoes,221.0,0.875,Value,False,False
+CRW-0023,CrimsonWing SunCore Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,370.0,0.279,Mid-Market,False,False
+CRW-0024,CrimsonWing Minimal Running Shoes,CrimsonWing,Footwear,Running Shoes,538.0,0.863,Premium,False,False
+CRW-0025,CrimsonWing CloudSoft Leather Shoes,CrimsonWing,Footwear,Leather Shoes,527.0,0.558,Premium,False,True
+CRW-0026,CrimsonWing Featherweight Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,226.0,0.714,Value,False,False
+CRW-0027,CrimsonWing Classic Skate Shoes,CrimsonWing,Footwear,Skate Shoes,468.0,0.623,Premium,False,False
+CRW-0028,CrimsonWing New Season Skate Shoes,CrimsonWing,Footwear,Skate Shoes,150.0,0.575,Value,False,False
+CRW-0029,CrimsonWing Everyday Leather Shoes,CrimsonWing,Footwear,Leather Shoes,501.0,0.342,Premium,True,False
+CRW-0030,CrimsonWing Comfort Fit Skate Shoes,CrimsonWing,Footwear,Skate Shoes,119.0,0.593,Value,False,False
+CRW-0031,CrimsonWing Urban Boots,CrimsonWing,Footwear,Boots,221.0,0.533,Value,False,False
+CRW-0032,CrimsonWing Lumen Leather Shoes,CrimsonWing,Footwear,Leather Shoes,494.0,0.632,Premium,False,False
+CRW-0033,CrimsonWing Breathable Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,165.0,0.751,Value,False,False
+CRW-0034,CrimsonWing GripPro Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,527.0,0.71,Premium,False,False
+CRW-0035,CrimsonWing CushionFlex Athleisure Sneakers,CrimsonWing,Footwear,Athleisure Sneakers,243.0,0.875,Value,False,True
+CRW-0036,CrimsonWing Trail Ready Leather Shoes,CrimsonWing,Footwear,Leather Shoes,359.0,0.557,Mid-Market,False,False
+CRW-0037,CrimsonWing Limited Running Shoes,CrimsonWing,Footwear,Running Shoes,528.0,0.63,Premium,False,False
+CRW-0038,CrimsonWing Vintage Leather Shoes,CrimsonWing,Footwear,Leather Shoes,206.0,0.544,Value,False,False
+CRW-0039,CrimsonWing TechFeel Leather Shoes,CrimsonWing,Footwear,Leather Shoes,166.0,0.454,Value,False,False
+CRW-0040,CrimsonWing Durable Athleisure Sneakers,CrimsonWing,Footwear,Athleisure Sneakers,148.0,0.821,Value,False,False
+CRW-0041,CrimsonWing AirLite Skate Shoes,CrimsonWing,Footwear,Skate Shoes,259.0,0.587,Mid-Market,False,False
+CRW-0042,CrimsonWing Breeze Workwear Shoes,CrimsonWing,Footwear,Workwear Shoes,194.0,0.915,Value,False,False
+CRW-0043,CrimsonWing SunCore Sandals,CrimsonWing,Footwear,Sandals,277.0,0.861,Mid-Market,False,False
+CRW-0044,CrimsonWing Minimal Boots,CrimsonWing,Footwear,Boots,390.0,0.82,Mid-Market,False,False
+CRW-0045,CrimsonWing CloudSoft Boots,CrimsonWing,Footwear,Boots,538.0,0.695,Premium,False,False
+CRW-0046,CrimsonWing Featherweight Workwear Shoes,CrimsonWing,Footwear,Workwear Shoes,124.0,0.614,Value,False,False
+CRW-0047,CrimsonWing Classic Skate Shoes,CrimsonWing,Footwear,Skate Shoes,311.0,0.311,Mid-Market,False,False
+CRW-0048,CrimsonWing New Season Workwear Shoes,CrimsonWing,Footwear,Workwear Shoes,491.0,0.697,Premium,False,False
+CRW-0049,CrimsonWing Everyday Sandals,CrimsonWing,Footwear,Sandals,171.0,0.527,Value,False,False
+CRW-0050,CrimsonWing Comfort Fit Running Shoes,CrimsonWing,Footwear,Running Shoes,241.0,0.559,Value,False,False
+CRW-0051,CrimsonWing Urban Boots,CrimsonWing,Footwear,Boots,500.0,0.877,Premium,True,False
+CRW-0052,CrimsonWing Lumen Leather Shoes,CrimsonWing,Footwear,Leather Shoes,216.0,0.687,Value,False,False
+CRW-0053,CrimsonWing Breathable Athleisure Sneakers,CrimsonWing,Footwear,Athleisure Sneakers,354.0,0.652,Mid-Market,False,False
+CRW-0054,CrimsonWing GripPro Skate Shoes,CrimsonWing,Footwear,Skate Shoes,228.0,0.721,Value,False,False
+CRW-0055,CrimsonWing CushionFlex Canvas Sneakers,CrimsonWing,Footwear,Canvas Sneakers,330.0,0.622,Mid-Market,False,False
+UBE-0001,UrbanEase AirLite Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,478.0,0.451,Premium,False,False
+UBE-0002,UrbanEase Breeze Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,317.0,0.496,Mid-Market,False,False
+UBE-0003,UrbanEase SunCore Sandals,UrbanEase,Footwear,Sandals,299.0,0.55,Mid-Market,True,False
+UBE-0004,UrbanEase Minimal Leather Shoes,UrbanEase,Footwear,Leather Shoes,168.0,0.6,Value,False,False
+UBE-0005,UrbanEase CloudSoft Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,493.0,0.391,Premium,False,False
+UBE-0006,UrbanEase Featherweight Workwear Shoes,UrbanEase,Footwear,Workwear Shoes,178.0,0.715,Value,False,False
+UBE-0007,UrbanEase Classic Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,333.0,0.651,Mid-Market,False,False
+UBE-0008,UrbanEase New Season Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,133.0,0.443,Value,False,False
+UBE-0009,UrbanEase Everyday Skate Shoes,UrbanEase,Footwear,Skate Shoes,203.0,0.703,Value,False,False
+UBE-0010,UrbanEase Comfort Fit Running Shoes,UrbanEase,Footwear,Running Shoes,244.0,0.707,Mid-Market,False,True
+UBE-0011,UrbanEase Urban Skate Shoes,UrbanEase,Footwear,Skate Shoes,311.0,0.747,Mid-Market,True,False
+UBE-0012,UrbanEase Lumen Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,272.0,0.354,Mid-Market,False,False
+UBE-0013,UrbanEase Breathable Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,120.0,0.586,Value,False,False
+UBE-0014,UrbanEase GripPro Leather Shoes,UrbanEase,Footwear,Leather Shoes,137.0,0.641,Value,False,True
+UBE-0015,UrbanEase CushionFlex Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,112.0,0.39,Value,False,False
+UBE-0016,UrbanEase Trail Ready Workwear Shoes,UrbanEase,Footwear,Workwear Shoes,170.0,0.627,Value,False,False
+UBE-0017,UrbanEase Limited Workwear Shoes,UrbanEase,Footwear,Workwear Shoes,171.0,0.57,Value,False,False
+UBE-0018,UrbanEase Vintage Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,401.0,0.8,Premium,False,False
+UBE-0019,UrbanEase TechFeel Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,317.0,0.378,Mid-Market,True,False
+UBE-0020,UrbanEase Durable Boots,UrbanEase,Footwear,Boots,329.0,0.732,Mid-Market,False,False
+UBE-0021,UrbanEase AirLite Running Shoes,UrbanEase,Footwear,Running Shoes,399.0,0.76,Premium,False,False
+UBE-0022,UrbanEase Breeze Sandals,UrbanEase,Footwear,Sandals,312.0,0.558,Mid-Market,False,False
+UBE-0023,UrbanEase SunCore Sandals,UrbanEase,Footwear,Sandals,166.0,0.426,Value,False,False
+UBE-0024,UrbanEase Minimal Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,255.0,0.746,Mid-Market,False,False
+UBE-0025,UrbanEase CloudSoft Running Shoes,UrbanEase,Footwear,Running Shoes,443.0,0.426,Premium,False,False
+UBE-0026,UrbanEase Featherweight Workwear Shoes,UrbanEase,Footwear,Workwear Shoes,204.0,0.785,Value,False,False
+UBE-0027,UrbanEase Classic Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,218.0,0.908,Value,False,False
+UBE-0028,UrbanEase New Season Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,140.0,0.429,Value,False,False
+UBE-0029,UrbanEase Everyday Boots,UrbanEase,Footwear,Boots,492.0,0.359,Premium,False,False
+UBE-0030,UrbanEase Comfort Fit Sandals,UrbanEase,Footwear,Sandals,232.0,0.702,Mid-Market,False,False
+UBE-0031,UrbanEase Urban Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,338.0,0.571,Mid-Market,False,True
+UBE-0032,UrbanEase Lumen Skate Shoes,UrbanEase,Footwear,Skate Shoes,479.0,0.553,Premium,False,False
+UBE-0033,UrbanEase Breathable Running Shoes,UrbanEase,Footwear,Running Shoes,193.0,0.603,Value,False,False
+UBE-0034,UrbanEase GripPro Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,270.0,0.451,Mid-Market,False,False
+UBE-0035,UrbanEase CushionFlex Skate Shoes,UrbanEase,Footwear,Skate Shoes,198.0,0.347,Value,False,False
+UBE-0036,UrbanEase Trail Ready Athleisure Sneakers,UrbanEase,Footwear,Athleisure Sneakers,300.0,0.567,Mid-Market,False,False
+UBE-0037,UrbanEase Limited Workwear Shoes,UrbanEase,Footwear,Workwear Shoes,248.0,0.576,Mid-Market,False,False
+UBE-0038,UrbanEase Vintage Running Shoes,UrbanEase,Footwear,Running Shoes,263.0,0.476,Mid-Market,False,True
+UBE-0039,UrbanEase TechFeel Sandals,UrbanEase,Footwear,Sandals,222.0,0.548,Value,False,False
+UBE-0040,UrbanEase Durable Skate Shoes,UrbanEase,Footwear,Skate Shoes,396.0,0.704,Premium,False,False
+UBE-0041,UrbanEase AirLite Skate Shoes,UrbanEase,Footwear,Skate Shoes,255.0,0.502,Mid-Market,False,False
+UBE-0042,UrbanEase Breeze Canvas Sneakers,UrbanEase,Footwear,Canvas Sneakers,186.0,0.734,Value,False,False
+PLW-0001,PlainWest AirLite Skate Shoes,PlainWest,Footwear,Skate Shoes,148.0,0.572,Value,False,False
+PLW-0002,PlainWest Breeze Athleisure Sneakers,PlainWest,Footwear,Athleisure Sneakers,228.0,0.821,Mid-Market,False,False
+PLW-0003,PlainWest SunCore Skate Shoes,PlainWest,Footwear,Skate Shoes,275.0,0.583,Mid-Market,False,False
+PLW-0004,PlainWest Minimal Workwear Shoes,PlainWest,Footwear,Workwear Shoes,418.0,0.295,Premium,False,True
+PLW-0005,PlainWest CloudSoft Leather Shoes,PlainWest,Footwear,Leather Shoes,146.0,0.925,Value,False,False
+PLW-0006,PlainWest Featherweight Canvas Sneakers,PlainWest,Footwear,Canvas Sneakers,369.0,0.837,Premium,False,False
+PLW-0007,PlainWest Classic Athleisure Sneakers,PlainWest,Footwear,Athleisure Sneakers,117.0,0.725,Value,False,False
+PLW-0008,PlainWest New Season Boots,PlainWest,Footwear,Boots,253.0,0.735,Mid-Market,False,False
+PLW-0009,PlainWest Everyday Boots,PlainWest,Footwear,Boots,239.0,0.537,Mid-Market,False,False
+PLW-0010,PlainWest Comfort Fit Skate Shoes,PlainWest,Footwear,Skate Shoes,232.0,0.639,Mid-Market,False,False
+PLW-0011,PlainWest Urban Running Shoes,PlainWest,Footwear,Running Shoes,171.0,0.891,Value,False,False
+PLW-0012,PlainWest Lumen Workwear Shoes,PlainWest,Footwear,Workwear Shoes,360.0,0.663,Premium,False,False
+PLW-0013,PlainWest Breathable Athleisure Sneakers,PlainWest,Footwear,Athleisure Sneakers,250.0,0.665,Mid-Market,False,False
+PLW-0014,PlainWest GripPro Sandals,PlainWest,Footwear,Sandals,241.0,0.769,Mid-Market,False,False
+PLW-0015,PlainWest CushionFlex Athleisure Sneakers,PlainWest,Footwear,Athleisure Sneakers,151.0,0.856,Value,False,False
+PLW-0016,PlainWest Trail Ready Sandals,PlainWest,Footwear,Sandals,284.0,0.905,Mid-Market,False,False
+PLW-0017,PlainWest Limited Skate Shoes,PlainWest,Footwear,Skate Shoes,291.0,0.434,Mid-Market,True,False
+PLW-0018,PlainWest Vintage Running Shoes,PlainWest,Footwear,Running Shoes,258.0,0.836,Mid-Market,False,False
+PLW-0019,PlainWest TechFeel Running Shoes,PlainWest,Footwear,Running Shoes,249.0,0.423,Mid-Market,False,False
+PLW-0020,PlainWest Durable Leather Shoes,PlainWest,Footwear,Leather Shoes,349.0,0.592,Premium,True,False
+PLW-0021,PlainWest AirLite Workwear Shoes,PlainWest,Footwear,Workwear Shoes,438.0,0.791,Premium,False,True
+PLW-0022,PlainWest Breeze Sandals,PlainWest,Footwear,Sandals,184.0,0.374,Value,True,False
+PLW-0023,PlainWest SunCore Running Shoes,PlainWest,Footwear,Running Shoes,281.0,0.465,Mid-Market,False,False
+PLW-0024,PlainWest Minimal Running Shoes,PlainWest,Footwear,Running Shoes,306.0,0.681,Mid-Market,False,False
+PLW-0025,PlainWest CloudSoft Leather Shoes,PlainWest,Footwear,Leather Shoes,183.0,0.416,Value,False,False
+PLW-0026,PlainWest Featherweight Sandals,PlainWest,Footwear,Sandals,286.0,0.656,Mid-Market,False,False
+PLW-0027,PlainWest Classic Canvas Sneakers,PlainWest,Footwear,Canvas Sneakers,221.0,0.522,Mid-Market,False,False
+PLW-0028,PlainWest New Season Skate Shoes,PlainWest,Footwear,Skate Shoes,208.0,0.556,Mid-Market,False,False
+PLW-0029,PlainWest Everyday Sandals,PlainWest,Footwear,Sandals,207.0,0.311,Mid-Market,True,False
+PLW-0030,PlainWest Comfort Fit Running Shoes,PlainWest,Footwear,Running Shoes,120.0,0.483,Value,False,False
+PLW-0031,PlainWest Urban Workwear Shoes,PlainWest,Footwear,Workwear Shoes,373.0,0.725,Premium,False,False
+PLW-0032,PlainWest Lumen Workwear Shoes,PlainWest,Footwear,Workwear Shoes,196.0,0.827,Value,False,False
+PLW-0033,PlainWest Breathable Skate Shoes,PlainWest,Footwear,Skate Shoes,315.0,0.407,Mid-Market,False,False
+PLW-0034,PlainWest GripPro Running Shoes,PlainWest,Footwear,Running Shoes,321.0,0.277,Mid-Market,False,False
+PLW-0035,PlainWest CushionFlex Athleisure Sneakers,PlainWest,Footwear,Athleisure Sneakers,214.0,0.7,Mid-Market,True,False
+WST-0001,Westward AirLite Running Shoes,Westward,Footwear,Running Shoes,238.0,0.862,Mid-Market,False,False
+WST-0002,Westward Breeze Leather Shoes,Westward,Footwear,Leather Shoes,234.0,0.473,Mid-Market,False,True
+WST-0003,Westward SunCore Leather Shoes,Westward,Footwear,Leather Shoes,149.0,0.714,Value,False,False
+WST-0004,Westward Minimal Workwear Shoes,Westward,Footwear,Workwear Shoes,238.0,0.73,Mid-Market,False,False
+WST-0005,Westward CloudSoft Leather Shoes,Westward,Footwear,Leather Shoes,192.0,0.76,Mid-Market,False,False
+WST-0006,Westward Featherweight Boots,Westward,Footwear,Boots,318.0,0.596,Premium,False,False
+WST-0007,Westward Classic Skate Shoes,Westward,Footwear,Skate Shoes,182.0,0.36,Value,False,False
+WST-0008,Westward New Season Athleisure Sneakers,Westward,Footwear,Athleisure Sneakers,294.0,0.344,Premium,False,False
+WST-0009,Westward Everyday Leather Shoes,Westward,Footwear,Leather Shoes,291.0,0.633,Premium,False,False
+WST-0010,Westward Comfort Fit Skate Shoes,Westward,Footwear,Skate Shoes,239.0,0.655,Mid-Market,True,True
+WST-0011,Westward Urban Workwear Shoes,Westward,Footwear,Workwear Shoes,151.0,0.497,Value,True,False
+WST-0012,Westward Lumen Leather Shoes,Westward,Footwear,Leather Shoes,201.0,0.693,Mid-Market,False,False
+WST-0013,Westward Breathable Skate Shoes,Westward,Footwear,Skate Shoes,209.0,0.676,Mid-Market,False,False
+WST-0014,Westward GripPro Skate Shoes,Westward,Footwear,Skate Shoes,125.0,0.549,Value,False,False
+WST-0015,Westward CushionFlex Boots,Westward,Footwear,Boots,237.0,0.764,Mid-Market,False,False
+WST-0016,Westward Trail Ready Athleisure Sneakers,Westward,Footwear,Athleisure Sneakers,231.0,0.309,Mid-Market,True,False
+WST-0017,Westward Limited Workwear Shoes,Westward,Footwear,Workwear Shoes,293.0,0.573,Premium,False,False
+WST-0018,Westward Vintage Running Shoes,Westward,Footwear,Running Shoes,176.0,0.47,Value,False,False
+WST-0019,Westward TechFeel Canvas Sneakers,Westward,Footwear,Canvas Sneakers,110.0,0.427,Value,True,True
+WST-0020,Westward Durable Sandals,Westward,Footwear,Sandals,389.0,0.669,Premium,False,False
+WST-0021,Westward AirLite Boots,Westward,Footwear,Boots,393.0,0.248,Premium,False,False
+WST-0022,Westward Breeze Sandals,Westward,Footwear,Sandals,308.0,0.624,Premium,False,False
+WST-0023,Westward SunCore Boots,Westward,Footwear,Boots,189.0,0.34,Mid-Market,False,False
+WST-0024,Westward Minimal Leather Shoes,Westward,Footwear,Leather Shoes,117.0,0.606,Value,False,False
+WST-0025,Westward CloudSoft Workwear Shoes,Westward,Footwear,Workwear Shoes,102.0,0.971,Value,False,True
+WST-0026,Westward Featherweight Workwear Shoes,Westward,Footwear,Workwear Shoes,167.0,0.7,Value,True,False
+WST-0027,Westward Classic Skate Shoes,Westward,Footwear,Skate Shoes,252.0,0.241,Mid-Market,True,True
+WST-0028,Westward New Season Canvas Sneakers,Westward,Footwear,Canvas Sneakers,313.0,0.684,Premium,False,False
+WST-0029,Westward Everyday Sandals,Westward,Footwear,Sandals,235.0,0.648,Mid-Market,False,False
+WST-0030,Westward Comfort Fit Leather Shoes,Westward,Footwear,Leather Shoes,114.0,0.412,Value,False,True
+FDB-0001,FieldBrook AirLite Skate Shoes,FieldBrook,Footwear,Skate Shoes,249.0,0.557,Mid-Market,False,False
+FDB-0002,FieldBrook Breeze Boots,FieldBrook,Footwear,Boots,226.0,0.709,Mid-Market,False,False
+FDB-0003,FieldBrook SunCore Boots,FieldBrook,Footwear,Boots,221.0,0.753,Mid-Market,False,False
+FDB-0004,FieldBrook Minimal Boots,FieldBrook,Footwear,Boots,199.0,0.375,Mid-Market,False,False
+FDB-0005,FieldBrook CloudSoft Athleisure Sneakers,FieldBrook,Footwear,Athleisure Sneakers,254.0,0.8,Mid-Market,False,False
+FDB-0006,FieldBrook Featherweight Skate Shoes,FieldBrook,Footwear,Skate Shoes,229.0,0.689,Mid-Market,False,False
+FDB-0007,FieldBrook Classic Leather Shoes,FieldBrook,Footwear,Leather Shoes,222.0,0.701,Mid-Market,True,False
+FDB-0008,FieldBrook New Season Canvas Sneakers,FieldBrook,Footwear,Canvas Sneakers,179.0,0.592,Mid-Market,False,False
+FDB-0009,FieldBrook Everyday Sandals,FieldBrook,Footwear,Sandals,183.0,0.6,Mid-Market,False,False
+FDB-0010,FieldBrook Comfort Fit Workwear Shoes,FieldBrook,Footwear,Workwear Shoes,241.0,0.467,Mid-Market,False,False
+FDB-0011,FieldBrook Urban Running Shoes,FieldBrook,Footwear,Running Shoes,97.0,0.739,Value,False,False
+FDB-0012,FieldBrook Lumen Canvas Sneakers,FieldBrook,Footwear,Canvas Sneakers,317.0,0.365,Premium,False,False
+FDB-0013,FieldBrook Breathable Skate Shoes,FieldBrook,Footwear,Skate Shoes,225.0,0.747,Mid-Market,False,False
+FDB-0014,FieldBrook GripPro Workwear Shoes,FieldBrook,Footwear,Workwear Shoes,310.0,0.356,Premium,False,False
+FDB-0015,FieldBrook CushionFlex Skate Shoes,FieldBrook,Footwear,Skate Shoes,123.0,0.651,Value,False,False
+FDB-0016,FieldBrook Trail Ready Leather Shoes,FieldBrook,Footwear,Leather Shoes,102.0,0.527,Value,False,False
+FDB-0017,FieldBrook Limited Running Shoes,FieldBrook,Footwear,Running Shoes,152.0,0.741,Value,True,False
+FDB-0018,FieldBrook Vintage Athleisure Sneakers,FieldBrook,Footwear,Athleisure Sneakers,196.0,0.619,Mid-Market,False,False
+FDB-0019,FieldBrook TechFeel Leather Shoes,FieldBrook,Footwear,Leather Shoes,160.0,0.827,Value,True,False
+FDB-0020,FieldBrook Durable Leather Shoes,FieldBrook,Footwear,Leather Shoes,235.0,0.448,Mid-Market,False,False
+FDB-0021,FieldBrook AirLite Skate Shoes,FieldBrook,Footwear,Skate Shoes,194.0,0.268,Mid-Market,True,False
+FDB-0022,FieldBrook Breeze Skate Shoes,FieldBrook,Footwear,Skate Shoes,168.0,0.662,Mid-Market,False,False
+FDB-0023,FieldBrook SunCore Sandals,FieldBrook,Footwear,Sandals,269.0,0.708,Premium,False,False
+FDB-0024,FieldBrook Minimal Sandals,FieldBrook,Footwear,Sandals,182.0,0.716,Mid-Market,False,False
+FDB-0025,FieldBrook CloudSoft Sandals,FieldBrook,Footwear,Sandals,190.0,0.623,Mid-Market,False,False
+FDB-0026,FieldBrook Featherweight Sandals,FieldBrook,Footwear,Sandals,134.0,0.821,Value,False,True
+FDB-0027,FieldBrook Classic Canvas Sneakers,FieldBrook,Footwear,Canvas Sneakers,298.0,0.523,Premium,False,True
+FDB-0028,FieldBrook New Season Leather Shoes,FieldBrook,Footwear,Leather Shoes,138.0,0.694,Value,False,False
+CMS-0001,Comely Step AirLite Leather Shoes,Comely Step,Footwear,Leather Shoes,222.0,0.716,Mid-Market,True,False
+CMS-0002,Comely Step Breeze Skate Shoes,Comely Step,Footwear,Skate Shoes,218.0,0.499,Mid-Market,False,False
+CMS-0003,Comely Step SunCore Athleisure Sneakers,Comely Step,Footwear,Athleisure Sneakers,122.0,0.927,Value,False,False
+CMS-0004,Comely Step Minimal Canvas Sneakers,Comely Step,Footwear,Canvas Sneakers,173.0,0.617,Mid-Market,False,False
+CMS-0005,Comely Step CloudSoft Sandals,Comely Step,Footwear,Sandals,180.0,0.617,Mid-Market,False,False
+CMS-0006,Comely Step Featherweight Running Shoes,Comely Step,Footwear,Running Shoes,173.0,0.601,Mid-Market,False,True
+CMS-0007,Comely Step Classic Athleisure Sneakers,Comely Step,Footwear,Athleisure Sneakers,170.0,0.782,Mid-Market,True,True
+CMS-0008,Comely Step New Season Sandals,Comely Step,Footwear,Sandals,113.0,0.61,Value,False,False
+CMS-0009,Comely Step Everyday Workwear Shoes,Comely Step,Footwear,Workwear Shoes,256.0,0.312,Premium,True,False
+CMS-0010,Comely Step Comfort Fit Running Shoes,Comely Step,Footwear,Running Shoes,195.0,0.922,Mid-Market,False,False
+CMS-0011,Comely Step Urban Workwear Shoes,Comely Step,Footwear,Workwear Shoes,219.0,0.506,Mid-Market,False,False
+CMS-0012,Comely Step Lumen Athleisure Sneakers,Comely Step,Footwear,Athleisure Sneakers,121.0,0.584,Value,False,False
+CMS-0013,Comely Step Breathable Workwear Shoes,Comely Step,Footwear,Workwear Shoes,219.0,0.765,Mid-Market,True,False
+CMS-0014,Comely Step GripPro Workwear Shoes,Comely Step,Footwear,Workwear Shoes,77.0,0.303,Value,True,False
+CMS-0015,Comely Step CushionFlex Boots,Comely Step,Footwear,Boots,149.0,0.763,Mid-Market,False,False
+CMS-0016,Comely Step Trail Ready Leather Shoes,Comely Step,Footwear,Leather Shoes,149.0,0.482,Mid-Market,True,False
+CMS-0017,Comely Step Limited Skate Shoes,Comely Step,Footwear,Skate Shoes,134.0,0.633,Value,False,False
+CMS-0018,Comely Step Vintage Running Shoes,Comely Step,Footwear,Running Shoes,95.0,0.422,Value,False,False
+CMS-0019,Comely Step TechFeel Skate Shoes,Comely Step,Footwear,Skate Shoes,174.0,0.432,Mid-Market,False,False
+CMS-0020,Comely Step Durable Canvas Sneakers,Comely Step,Footwear,Canvas Sneakers,103.0,0.479,Value,True,False
+CMS-0021,Comely Step AirLite Boots,Comely Step,Footwear,Boots,277.0,0.474,Premium,False,False
+CMS-0022,Comely Step Breeze Canvas Sneakers,Comely Step,Footwear,Canvas Sneakers,288.0,0.536,Premium,False,False
+CMS-0023,Comely Step SunCore Workwear Shoes,Comely Step,Footwear,Workwear Shoes,288.0,0.848,Premium,False,False
+CMS-0024,Comely Step Minimal Leather Shoes,Comely Step,Footwear,Leather Shoes,250.0,0.885,Premium,False,False
+CMS-0025,Comely Step CloudSoft Athleisure Sneakers,Comely Step,Footwear,Athleisure Sneakers,157.0,0.761,Mid-Market,False,False
+CMS-0026,Comely Step Featherweight Running Shoes,Comely Step,Footwear,Running Shoes,87.0,0.829,Value,False,False
+ZHB-0001,Zenith Harbor AirLite Running Shoes,Zenith Harbor,Footwear,Running Shoes,103.0,0.465,Value,False,False
+ZHB-0002,Zenith Harbor Breeze Leather Shoes,Zenith Harbor,Footwear,Leather Shoes,276.0,0.512,Premium,False,False
+ZHB-0003,Zenith Harbor SunCore Skate Shoes,Zenith Harbor,Footwear,Skate Shoes,175.0,0.376,Mid-Market,False,True
+ZHB-0004,Zenith Harbor Minimal Leather Shoes,Zenith Harbor,Footwear,Leather Shoes,247.0,0.928,Premium,False,False
+ZHB-0005,Zenith Harbor CloudSoft Workwear Shoes,Zenith Harbor,Footwear,Workwear Shoes,108.0,0.605,Value,False,False
+ZHB-0006,Zenith Harbor Featherweight Sandals,Zenith Harbor,Footwear,Sandals,243.0,0.805,Premium,True,False
+ZHB-0007,Zenith Harbor Classic Athleisure Sneakers,Zenith Harbor,Footwear,Athleisure Sneakers,160.0,0.608,Mid-Market,False,False
+ZHB-0008,Zenith Harbor New Season Running Shoes,Zenith Harbor,Footwear,Running Shoes,228.0,0.555,Premium,False,False
+ZHB-0009,Zenith Harbor Everyday Workwear Shoes,Zenith Harbor,Footwear,Workwear Shoes,113.0,0.609,Value,False,False
+ZHB-0010,Zenith Harbor Comfort Fit Boots,Zenith Harbor,Footwear,Boots,99.0,0.696,Value,False,False
+ZHB-0011,Zenith Harbor Urban Skate Shoes,Zenith Harbor,Footwear,Skate Shoes,129.0,0.675,Value,False,True
+ZHB-0012,Zenith Harbor Lumen Athleisure Sneakers,Zenith Harbor,Footwear,Athleisure Sneakers,133.0,0.47,Value,False,False
+ZHB-0013,Zenith Harbor Breathable Workwear Shoes,Zenith Harbor,Footwear,Workwear Shoes,125.0,0.645,Value,True,False
+ZHB-0014,Zenith Harbor GripPro Workwear Shoes,Zenith Harbor,Footwear,Workwear Shoes,98.0,0.526,Value,False,False
+ZHB-0015,Zenith Harbor CushionFlex Athleisure Sneakers,Zenith Harbor,Footwear,Athleisure Sneakers,212.0,0.586,Mid-Market,False,False
+ZHB-0016,Zenith Harbor Trail Ready Running Shoes,Zenith Harbor,Footwear,Running Shoes,135.0,0.416,Value,False,False
+ZHB-0017,Zenith Harbor Limited Sandals,Zenith Harbor,Footwear,Sandals,181.0,0.945,Mid-Market,True,False
+ZHB-0018,Zenith Harbor Vintage Running Shoes,Zenith Harbor,Footwear,Running Shoes,107.0,0.318,Value,False,False
+ZHB-0019,Zenith Harbor TechFeel Athleisure Sneakers,Zenith Harbor,Footwear,Athleisure Sneakers,203.0,0.64,Mid-Market,False,False
+ZHB-0020,Zenith Harbor Durable Athleisure Sneakers,Zenith Harbor,Footwear,Athleisure Sneakers,132.0,0.699,Value,True,False
+ZHB-0021,Zenith Harbor AirLite Boots,Zenith Harbor,Footwear,Boots,200.0,0.546,Mid-Market,False,False
+ZHB-0022,Zenith Harbor Breeze Sandals,Zenith Harbor,Footwear,Sandals,212.0,0.416,Mid-Market,False,False
+ZHB-0023,Zenith Harbor SunCore Running Shoes,Zenith Harbor,Footwear,Running Shoes,128.0,0.866,Value,True,False
+ZHB-0024,Zenith Harbor Minimal Workwear Shoes,Zenith Harbor,Footwear,Workwear Shoes,209.0,0.525,Mid-Market,False,False
