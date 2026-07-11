@@ -13,8 +13,8 @@ sys.path.append(str(Path(__file__).parent.parent))
 from utils import fmt_pct, fmt_revenue, load_daily_business, load_sku_performance, pct_delta
 
 
-st.set_page_config(page_title="Business Overview", layout="wide")
-st.title("Business Overview")
+st.set_page_config(page_title="Business Overview", page_icon="📊", layout="wide")
+st.title("📊 Business Overview")
 st.caption("Operating health check across GMV, traffic, conversion, AOV, and channel performance.")
 
 st.info(
@@ -61,7 +61,7 @@ prev_df = df[
 ]
 
 st.caption(
-    f"Current period: {fdf['date'].min().date()} to {fdf['date'].max().date()} ({period_days} days). "
+    f"📅 Current period: {fdf['date'].min().date()} to {fdf['date'].max().date()} ({period_days} days). "
     f"Comparison period: {prev_start.date()} to {prev_end.date()}."
 )
 
@@ -85,12 +85,12 @@ c3.metric("Conversion Rate", fmt_pct(avg_cr), f"{(avg_cr - prev_cr) * 100:+.2f}p
 c4.metric("AOV", f"${avg_aov:,.0f}", f"{pct_delta(avg_aov, prev_aov) * 100:+.1f}%" if pct_delta(avg_aov, prev_aov) is not None else None)
 c5.metric("Refund Rate", fmt_pct(avg_refund))
 
-with st.expander("KPI framework"):
+with st.expander("📐 KPI framework"):
     st.markdown("**GMV = Traffic x Conversion Rate x Average Order Value.** This decomposition drives the anomaly checks below.")
 
 st.divider()
 
-st.subheader("Operating Health Check")
+st.subheader("🩺 Operating Health Check")
 st.caption("Flags material movement in GMV, traffic, conversion rate, AOV, and order volume.")
 
 alerts = []
@@ -101,18 +101,18 @@ cr_chg = pct_delta(avg_cr, prev_cr)
 aov_chg = pct_delta(avg_aov, prev_aov)
 
 if gmv_chg is not None and gmv_chg < -0.15:
-    alerts.append(("high", f"GMV declined {abs(gmv_chg) * 100:.1f}%", "GMV dropped materially versus the comparison period.", "Review traffic, conversion, and AOV to isolate the largest drag."))
+    alerts.append(("high", f"🔴 GMV declined {abs(gmv_chg) * 100:.1f}%", "GMV dropped materially versus the comparison period.", "Review traffic, conversion, and AOV to isolate the largest drag."))
 if cr_chg is not None and cr_chg < -0.10:
-    alerts.append(("medium", f"Conversion rate declined {abs(cr_chg) * 100:.1f}%", "Conversion efficiency weakened.", "Use Product Diagnosis to inspect high-traffic, low-conversion SKUs."))
+    alerts.append(("medium", f"🟡 Conversion rate declined {abs(cr_chg) * 100:.1f}%", "Conversion efficiency weakened.", "Use Product Diagnosis to inspect high-traffic, low-conversion SKUs."))
 if aov_chg is not None and aov_chg < -0.10:
-    alerts.append(("medium", f"AOV declined {abs(aov_chg) * 100:.1f}%", "Average order value fell materially.", "Review discount depth, bundle strategy, and premium product mix."))
+    alerts.append(("medium", f"🟡 AOV declined {abs(aov_chg) * 100:.1f}%", "Average order value fell materially.", "Review discount depth, bundle strategy, and premium product mix."))
 if orders_chg is not None and orders_chg < -0.15:
-    alerts.append(("high", f"Orders declined {abs(orders_chg) * 100:.1f}%", "Order volume weakened materially.", "Review campaign calendar and channel allocation."))
+    alerts.append(("high", f"🔴 Orders declined {abs(orders_chg) * 100:.1f}%", "Order volume weakened materially.", "Review campaign calendar and channel allocation."))
 
 traffic_mismatch = False
 if traffic_chg is not None and traffic_chg > 0.20 and (orders_chg is None or orders_chg < 0.05):
     traffic_mismatch = True
-    alerts.append(("medium", "Traffic and conversion mismatch", "Traffic increased, but order volume did not keep pace.", "Review traffic quality, landing page fit, pricing, and inventory availability."))
+    alerts.append(("medium", "🟡 Traffic and conversion mismatch", "Traffic increased, but order volume did not keep pace.", "Review traffic quality, landing page fit, pricing, and inventory availability."))
 
 sku_all = load_sku_performance()
 sku_in_range = sku_all[(sku_all["start_date"] >= start) & (sku_all["start_date"] <= end)]
@@ -130,13 +130,13 @@ if len(sku_in_range) > 10:
     n_problem_sku = int(problem_mask.sum())
     drag_traffic_share = s_agg.loc[problem_mask, "traffic"].sum() / s_agg["traffic"].sum() if s_agg["traffic"].sum() else 0
     if n_problem_sku:
-        alerts.append(("high", f"{n_problem_sku} high-traffic, low-conversion SKUs found", f"These SKUs account for {drag_traffic_share * 100:.1f}% of selected SKU traffic.", "Prioritize product content, pricing, inventory, and refund-risk review."))
+        alerts.append(("high", f"🔴 {n_problem_sku} high-traffic, low-conversion SKUs found", f"These SKUs account for {drag_traffic_share * 100:.1f}% of selected SKU traffic.", "Prioritize product content, pricing, inventory, and refund-risk review."))
 
 score = 100
 for severity, *_ in alerts:
     score -= 20 if severity == "high" else 10
 score = max(score, 0)
-score_label = "Healthy" if score >= 80 else ("Needs Attention" if score >= 50 else "Immediate Action Needed")
+score_label = "🟢 Healthy" if score >= 80 else ("🟡 Needs Attention" if score >= 50 else "🔴 Immediate Action Needed")
 
 sh1, sh2 = st.columns([1, 3])
 with sh1:
@@ -152,13 +152,13 @@ with sh2:
 for _, title, message, action in alerts:
     with st.container(border=True):
         st.markdown(f"**{title}**")
-        st.caption(f"Signal: {message}")
-        st.caption(f"Recommended next step: {action}")
+        st.caption(f"📌 Signal: {message}")
+        st.caption(f"👉 Recommended next step: {action}")
 
 if n_problem_sku > 0:
-    st.page_link("pages/2_Product_Diagnosis.py", label="Open Product Diagnosis")
+    st.page_link("pages/2_Product_Diagnosis.py", label="👉 Open Product Diagnosis")
 
-st.markdown("#### Root Cause Summary")
+st.markdown("#### 🧩 Root Cause Summary")
 causes = []
 actions = set()
 if gmv_chg is not None and gmv_chg < -0.05:
@@ -269,7 +269,7 @@ st.dataframe(
     hide_index=True,
 )
 
-with st.expander("How to read channel metrics"):
+with st.expander("📎 How to read channel metrics"):
     st.markdown(
         """
 - Private-community and CRM-driven channels should usually convert above the platform average because the audience has stronger intent.

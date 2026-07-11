@@ -12,8 +12,8 @@ sys.path.append(str(Path(__file__).parent.parent))
 from utils import fmt_pct, load_sku_performance
 
 
-st.set_page_config(page_title="Product Diagnosis", layout="wide")
-st.title("Product Diagnosis")
+st.set_page_config(page_title="Product Diagnosis", page_icon="🔍", layout="wide")
+st.title("🔍 Product Diagnosis")
 st.caption("Identify high-traffic, low-conversion SKUs and prioritize root-cause investigation.")
 
 st.info(
@@ -24,7 +24,7 @@ st.info(
 with st.container(border=True):
     st.markdown(
         """
-**Why this matters**
+**💡 Why this matters**
 
 Low GMV does not always mean a product should be fixed first. The most urgent opportunities are often
 SKUs with high traffic and weak conversion because the platform is already investing exposure in them.
@@ -102,10 +102,10 @@ def quadrant_code(row):
 
 
 QUADRANT_LABELS = {
-    "drag": "Drag SKUs: high traffic, low conversion",
-    "star": "Star SKUs: high traffic, high conversion",
-    "potential": "Potential SKUs: low traffic, high conversion",
-    "edge": "Edge SKUs: low traffic, low conversion",
+    "drag": "🔴 Drag SKUs: high traffic, low conversion",
+    "star": "🟢 Star SKUs: high traffic, high conversion",
+    "potential": "🔵 Potential SKUs: low traffic, high conversion",
+    "edge": "⚪ Edge SKUs: low traffic, low conversion",
 }
 
 sku_agg["quadrant_code"] = sku_agg.apply(quadrant_code, axis=1)
@@ -117,8 +117,8 @@ n_star = int((sku_agg["quadrant_code"] == "star").sum())
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("SKUs Analyzed", f"{len(sku_agg):,}")
-c2.metric("Drag SKUs", f"{n_drag}", f"{drag_traffic_share * 100:.1f}% of traffic", delta_color="off")
-c3.metric("Star SKUs", f"{n_star}")
+c2.metric("🔴 Drag SKUs", f"{n_drag}", f"{drag_traffic_share * 100:.1f}% of traffic", delta_color="off")
+c3.metric("🟢 Star SKUs", f"{n_star}")
 c4.metric("Average Sell-through", fmt_pct(sku_agg["avg_sell_through"].mean()))
 
 st.divider()
@@ -151,19 +151,19 @@ fig.add_hline(y=cr_median, line_dash="dash", line_color="gray", annotation_text=
 fig.update_yaxes(tickformat=".1%")
 st.plotly_chart(fig, use_container_width=True)
 
-with st.expander("Quadrant interpretation"):
+with st.expander("📋 Quadrant interpretation"):
     quadrant_table = pd.DataFrame(
         [
-            ["Drag SKUs", "High traffic, low conversion", "Exposure is being wasted.", "Fix listing content, pricing, inventory, and refund-risk signals first."],
-            ["Star SKUs", "High traffic, high conversion", "Strong demand capture.", "Protect inventory and increase qualified exposure."],
-            ["Potential SKUs", "Low traffic, high conversion", "Underexposed products.", "Test additional placement or campaign support."],
-            ["Edge SKUs", "Low traffic, low conversion", "Weak traction.", "Deprioritize unless strategically important."],
+            ["🟢 Star SKUs", "High traffic, high conversion", "Strong demand capture.", "Protect inventory and increase qualified exposure."],
+            ["🔴 Drag SKUs", "High traffic, low conversion", "Exposure is being wasted.", "Fix listing content, pricing, inventory, and refund-risk signals first."],
+            ["🔵 Potential SKUs", "Low traffic, high conversion", "Underexposed products.", "Test additional placement or campaign support."],
+            ["⚪ Edge SKUs", "Low traffic, low conversion", "Weak traction.", "Deprioritize unless strategically important."],
         ],
         columns=["Segment", "Signal", "Meaning", "Recommended Action"],
     )
     st.dataframe(quadrant_table, use_container_width=True, hide_index=True)
 
-st.subheader("Drag SKU Root-cause List")
+st.subheader("🔴 Drag SKU Root-cause List")
 drag_skus = sku_agg[sku_agg["quadrant_code"] == "drag"].copy().sort_values("total_traffic", ascending=False)
 
 
@@ -262,7 +262,7 @@ with col_b:
     st.plotly_chart(fig5, use_container_width=True)
     st.caption("Large bubbles in the lower-left area indicate inventory risk: deep discounts with weak sell-through.")
 
-with st.expander("Drag SKU logic"):
+with st.expander("📐 Drag SKU logic"):
     st.markdown(
         """
 - A drag SKU has traffic above the selected-scope median and conversion below the selected-scope median.

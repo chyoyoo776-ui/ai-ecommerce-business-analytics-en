@@ -6,14 +6,15 @@ import streamlit as st
 
 st.set_page_config(
     page_title="AI E-commerce Business Analytics",
+    page_icon="🛍️",
     layout="wide",
     initial_sidebar_state="expanded",
 )
 
-st.title("AI E-commerce Business Analytics")
+st.title("🛍️ AI E-commerce Business Analytics")
 st.caption("A portfolio-ready operating dashboard and AI strategy assistant for e-commerce decision making.")
 
-st.markdown("### Business Problem")
+st.markdown("### 🎯 Business Problem")
 st.info(
     "When GMV declines, a standard BI dashboard can show revenue, traffic, and conversion movement, "
     "but it often cannot explain whether the issue is traffic quality, product conversion, pricing, "
@@ -21,7 +22,7 @@ st.info(
     "into an interactive analytics product."
 )
 
-st.markdown("### Analytical Workflow")
+st.markdown("### 🔗 Analytical Workflow")
 st.markdown(
     """
 1. **Business Question**: What is driving GMV movement?
@@ -34,12 +35,12 @@ st.markdown(
 """
 )
 
-st.markdown("### Dashboard Pages")
+st.markdown("### 📖 Dashboard Pages")
 
 with st.container(border=True):
     st.markdown(
         """
-**Business Overview**
+**📊 Business Overview**
 
 Monitor operating health across GMV, traffic, conversion rate, AOV, order volume, refund rate, and channel performance.
 """
@@ -48,7 +49,7 @@ Monitor operating health across GMV, traffic, conversion rate, AOV, order volume
 with st.container(border=True):
     st.markdown(
         """
-**Product Diagnosis**
+**🔍 Product Diagnosis**
 
 Segment SKUs using a traffic-by-conversion framework and identify high-traffic, low-conversion products that are likely wasting exposure.
 """
@@ -57,7 +58,7 @@ Segment SKUs using a traffic-by-conversion framework and identify high-traffic, 
 with st.container(border=True):
     st.markdown(
         """
-**AI Strategy Assistant**
+**🤖 AI Strategy Assistant**
 
 Convert observed anomalies and product diagnosis results into strategic recommendations, expected impact, tracking metrics, and A/B test plans.
 """
