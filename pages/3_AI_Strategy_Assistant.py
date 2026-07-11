@@ -11,8 +11,8 @@ sys.path.append(str(Path(__file__).parent.parent))
 from utils import load_brand_campaigns, load_daily_business, load_sku_performance
 
 
-st.set_page_config(page_title="AI Strategy Assistant", layout="wide")
-st.title("AI Strategy Assistant")
+st.set_page_config(page_title="AI Strategy Assistant", page_icon="🤖", layout="wide")
+st.title("🤖 AI Strategy Assistant")
 st.caption("Turn operating signals into strategic recommendations, expected impact, and follow-up tracking.")
 
 st.info(
@@ -27,16 +27,16 @@ except Exception:
 
 if shared_key:
     api_key = shared_key
-    st.success("A configured Anthropic API key is available for this app session.")
+    st.success("✅ A configured Anthropic API key is available for this app session.", icon="🔑")
 else:
-    st.info("Enter an Anthropic API key to generate AI recommendations. The key is used only for this session and is not written to the repository.")
+    st.info("💡 Enter an Anthropic API key to generate AI recommendations. The key is used only for this session and is not written to the repository.", icon="🔑")
     api_key = st.text_input("Anthropic API Key", type="password", placeholder="sk-ant-...")
 
 sku = load_sku_performance()
 campaigns = load_brand_campaigns()
 daily = load_daily_business()
 
-st.subheader("Generate Strategic Recommendation Report")
+st.subheader("📝 Generate Strategic Recommendation Report")
 st.caption("The report follows a fixed analytics structure: business issue, root-cause hypothesis, priority actions, expected impact, tracking metrics, and validation experiment.")
 
 max_date = sku["end_date"].max()
@@ -56,12 +56,12 @@ window_days_map = {"Last 7 days": 7, "Last 30 days": 30, "Last 90 days": 90, "Al
 window_days = window_days_map[window_option]
 if window_days is not None:
     window_start = max_date - pd.Timedelta(days=window_days)
-    st.caption(f"Analysis period: {window_start.date()} to {max_date.date()} ({window_days} days from the latest data date).")
+    st.caption(f"📅 Analysis period: {window_start.date()} to {max_date.date()} ({window_days} days from the latest data date).")
 else:
     window_start = sku["start_date"].min()
-    st.caption(f"Analysis period: {window_start.date()} to {max_date.date()} (all available data).")
+    st.caption(f"📅 Analysis period: {window_start.date()} to {max_date.date()} (all available data).")
 
-generate_btn = st.button("Generate strategy report", type="primary", use_container_width=True)
+generate_btn = st.button("📝 Generate strategy report", type="primary", use_container_width=True)
 
 
 def build_data_context(scope, value, window_start=None, window_end=None):
@@ -189,7 +189,7 @@ if "last_report" in st.session_state:
     with st.expander("View data context sent to the assistant"):
         st.text(st.session_state["last_context"])
 else:
-    with st.expander("Preview report structure"):
+    with st.expander("📄 Preview report structure"):
         st.markdown(
             """
 ## 1. Key Business Issue
@@ -216,7 +216,7 @@ Test upgraded product content and offer messaging against the current listing. U
 
 st.divider()
 
-st.subheader("GMV Impact Calculator")
+st.subheader("🧮 GMV Impact Calculator")
 st.markdown(
     """
 Estimate the GMV upside from improving high-traffic, low-conversion SKUs.
@@ -224,7 +224,7 @@ Estimate the GMV upside from improving high-traffic, low-conversion SKUs.
 **Potential GMV uplift = Traffic x conversion-rate lift x average order value**
 """
 )
-st.warning("This is a planning estimate, not a predictive model. Use it to size opportunities and prioritize tests.")
+st.warning("⚠️ This is a planning estimate, not a predictive model. Use it to size opportunities and prioritize tests.")
 
 sku_agg_calc = sku.groupby(["sku_id", "product_name", "brand", "category"]).agg(
     total_traffic=("traffic", "sum"),
@@ -296,7 +296,7 @@ else:
 
 st.divider()
 
-st.subheader("Follow-up Tracking")
+st.subheader("📈 Follow-up Tracking")
 tracking_table = pd.DataFrame(
     [
         ["Optimize drag SKU title, image, and offer", "CTR, conversion rate, GMV, refund rate", "7-14 days"],
@@ -309,7 +309,7 @@ tracking_table = pd.DataFrame(
 )
 st.dataframe(tracking_table, use_container_width=True, hide_index=True)
 
-with st.expander("Ask a follow-up data question"):
+with st.expander("💬 Ask a follow-up data question"):
     user_q = st.text_input("Example: Which brand has the highest share of drag SKUs?")
     ask_btn = st.button("Ask")
     if ask_btn and user_q:
