@@ -102,6 +102,6 @@ with st.sidebar:
 Sports & Outdoor, Footwear
 
 **Brand Universe**  
-21 fictional portfolio brands
+21 brands
 """
     )
