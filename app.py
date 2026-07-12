@@ -73,7 +73,7 @@ with col_a:
 ### Data Background
 
 The dataset simulates a flash-sale e-commerce marketplace across Sports & Outdoor and Footwear categories.
-It covers 21 fictional brands, synthetic order and traffic behavior from December 2024 through December 2025,
+It covers 21 brands, synthetic order and traffic behavior from December 2024 through December 2025,
 and realistic business dynamics including campaign peaks, seasonality, channel mix, pricing, inventory, and refund risk.
 
 All data is synthetic and does not represent any real company.
